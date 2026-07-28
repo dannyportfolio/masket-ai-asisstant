@@ -1,0 +1,4 @@
+ticker,source,fetch_timestamp,first_date,last_date,row_count,missing_ohlcv_count,zero_volume_count,anomaly_count,data_status,quality_flags
+BBCA.JK,,,,,0,0,0,0,FETCH_ERROR,fetch_error
+BMRI.JK,,,,,0,0,0,0,FETCH_ERROR,fetch_error
+TLKM.JK,,,,,0,0,0,0,FETCH_ERROR,fetch_error

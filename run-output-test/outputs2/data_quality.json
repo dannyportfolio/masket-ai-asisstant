@@ -1,0 +1,29 @@
+{
+  "BBCA.JK": {
+    "status": "FETCH_ERROR",
+    "flags": [
+      "fetch_error"
+    ],
+    "metrics": {
+      "rows": 0
+    }
+  },
+  "BMRI.JK": {
+    "status": "FETCH_ERROR",
+    "flags": [
+      "fetch_error"
+    ],
+    "metrics": {
+      "rows": 0
+    }
+  },
+  "TLKM.JK": {
+    "status": "FETCH_ERROR",
+    "flags": [
+      "fetch_error"
+    ],
+    "metrics": {
+      "rows": 0
+    }
+  }
+}

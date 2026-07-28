@@ -1,0 +1,95 @@
+[
+  {
+    "ticker": "BBCA.JK",
+    "source": null,
+    "provider": null,
+    "exchange": "IDX",
+    "fetch_timestamp_utc": null,
+    "retrieved_at": null,
+    "period": "1y",
+    "interval": "1d",
+    "rows": 0,
+    "start_date": null,
+    "end_date": null,
+    "latency_class": "UNAVAILABLE",
+    "is_delayed": true,
+    "delay_seconds": null,
+    "provider_attempts": 1,
+    "status": "FETCH_ERROR",
+    "error": "yahoo:DATA_MISSING",
+    "provider_attempt_log": [
+      "yahoo:DATA_MISSING"
+    ],
+    "analytics_engine_requested": "fincept",
+    "analytics_engine_used": null,
+    "analytics_engine_status": "NOT_RUN",
+    "analytics_engine_revision": "fec23dc78c935e001394ea8df3f820eddd0823a0",
+    "analytics_engine_added_columns": 0,
+    "analytics_engine_error": null,
+    "quality_flags": [
+      "fetch_error"
+    ]
+  },
+  {
+    "ticker": "BMRI.JK",
+    "source": null,
+    "provider": null,
+    "exchange": "IDX",
+    "fetch_timestamp_utc": null,
+    "retrieved_at": null,
+    "period": "1y",
+    "interval": "1d",
+    "rows": 0,
+    "start_date": null,
+    "end_date": null,
+    "latency_class": "UNAVAILABLE",
+    "is_delayed": true,
+    "delay_seconds": null,
+    "provider_attempts": 1,
+    "status": "FETCH_ERROR",
+    "error": "yahoo:DATA_MISSING",
+    "provider_attempt_log": [
+      "yahoo:DATA_MISSING"
+    ],
+    "analytics_engine_requested": "fincept",
+    "analytics_engine_used": null,
+    "analytics_engine_status": "NOT_RUN",
+    "analytics_engine_revision": "fec23dc78c935e001394ea8df3f820eddd0823a0",
+    "analytics_engine_added_columns": 0,
+    "analytics_engine_error": null,
+    "quality_flags": [
+      "fetch_error"
+    ]
+  },
+  {
+    "ticker": "TLKM.JK",
+    "source": null,
+    "provider": null,
+    "exchange": "IDX",
+    "fetch_timestamp_utc": null,
+    "retrieved_at": null,
+    "period": "1y",
+    "interval": "1d",
+    "rows": 0,
+    "start_date": null,
+    "end_date": null,
+    "latency_class": "UNAVAILABLE",
+    "is_delayed": true,
+    "delay_seconds": null,
+    "provider_attempts": 1,
+    "status": "FETCH_ERROR",
+    "error": "yahoo:DATA_MISSING",
+    "provider_attempt_log": [
+      "yahoo:DATA_MISSING"
+    ],
+    "analytics_engine_requested": "fincept",
+    "analytics_engine_used": null,
+    "analytics_engine_status": "NOT_RUN",
+    "analytics_engine_revision": "fec23dc78c935e001394ea8df3f820eddd0823a0",
+    "analytics_engine_added_columns": 0,
+    "analytics_engine_error": null,
+    "quality_flags": [
+      "fetch_error"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "BBCA.JK": {
+    "status": "OK",
+    "flags": [
+      "missing_values:open:3",
+      "missing_values:high:3",
+      "missing_values:low:3",
+      "missing_values:close:3",
+      "missing_values:volume:3",
+      "zero_volume_rows:7",
+      "calendar_gaps_gt_7d:1"
+    ],
+    "metrics": {
+      "rows": 247,
+      "missing_open": 3,
+      "missing_high": 3,
+      "missing_low": 3,
+      "missing_close": 3,
+      "missing_volume": 3,
+      "non_positive_ohlc_rows": 0,
+      "zero_volume_rows": 7,
+      "invalid_candle_rows": 0,
+      "extreme_range_rows": 0,
+      "valid_date_rows": 247,
+      "calendar_gaps_gt_7d": 1,
+      "last_date": "2026-07-28"
+    }
+  },
+  "BMRI.JK": {
+    "status": "OK",
+    "flags": [
+      "missing_values:open:3",
+      "missing_values:high:3",
+      "missing_values:low:3",
+      "missing_values:close:3",
+      "missing_values:volume:3",
+      "zero_volume_rows:7",
+      "calendar_gaps_gt_7d:1"
+    ],
+    "metrics": {
+      "rows": 247,
+      "missing_open": 3,
+      "missing_high": 3,
+      "missing_low": 3,
+      "missing_close": 3,
+      "missing_volume": 3,
+      "non_positive_ohlc_rows": 0,
+      "zero_volume_rows": 7,
+      "invalid_candle_rows": 0,
+      "extreme_range_rows": 0,
+      "valid_date_rows": 247,
+      "calendar_gaps_gt_7d": 1,
+      "last_date": "2026-07-28"
+    }
+  },
+  "TLKM.JK": {
+    "status": "OK",
+    "flags": [
+      "missing_values:open:3",
+      "missing_values:high:3",
+      "missing_values:low:3",
+      "missing_values:close:3",
+      "missing_values:volume:3",
+      "zero_volume_rows:7",
+      "calendar_gaps_gt_7d:1"
+    ],
+    "metrics": {
+      "rows": 247,
+      "missing_open": 3,
+      "missing_high": 3,
+      "missing_low": 3,
+      "missing_close": 3,
+      "missing_volume": 3,
+      "non_positive_ohlc_rows": 0,
+      "zero_volume_rows": 7,
+      "invalid_candle_rows": 0,
+      "extreme_range_rows": 0,
+      "valid_date_rows": 247,
+      "calendar_gaps_gt_7d": 1,
+      "last_date": "2026-07-28"
+    }
+  }
+}

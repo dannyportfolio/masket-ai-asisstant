@@ -1,0 +1,564 @@
+[
+  {
+    "ticker": "BBCA.JK",
+    "analysis_date": "2026-07-28",
+    "data_status": "OK",
+    "ihsg_context": {
+      "ihsg_regime": "VOLATILE_UNCLEAR",
+      "ihsg_trend_score": 25,
+      "macro_permission": "WAIT_ONLY",
+      "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+    },
+    "wyckoff_vpa": {
+      "phase": "NEUTRAL_UNCLEAR",
+      "main_signal": "NO_CLEAR_SIGNAL",
+      "evidence": [
+        "cmf20_positive",
+        "cmf20_strengthening",
+        "cmf60_negative"
+      ],
+      "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+      "vwpa_pressure_20": 0.1377455860444446
+    },
+    "cmf": {
+      "cmf_10": 0.09309563650544055,
+      "cmf_20": 0.13492160068670425,
+      "cmf_60": -0.1363201316073986
+    },
+    "saturation_index": {
+      "accumulation_saturation_index": 35,
+      "distribution_saturation_index": 10
+    },
+    "relative_strength": {
+      "relative_strength_20": 0.035253147291934184,
+      "relative_strength_60": 0.16903414245162518,
+      "relative_strength_status": "OUTPERFORMING_IHSG"
+    },
+    "trade_plan": {
+      "trade_action": "WAIT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "macro_confirmation": "WAIT_ONLY",
+      "confidence": 50,
+      "news_confirmation": "NEWS_PRESENT_NO_STRONG_VPA_CONFIRMATION"
+    },
+    "news": {
+      "news_status": "OK",
+      "news_sentiment": "POSITIVE",
+      "news_score": 1,
+      "matched_articles": [
+        {
+          "title": "BCA (BBCA) Kantongi Laba Rp 29,5 T di Semester 1 2026",
+          "link": "https://www.cnbcindonesia.com/market/20260728170959-17-754496/bca--bbca--kantongi-laba-rp-295-t-di-semester-1-2026",
+          "published": "2026-07-28T17:21:38+07:00",
+          "source": "CNBC",
+          "sentiment_score": 2,
+          "sentiment_terms": [
+            "positive:laba",
+            "positive:naik"
+          ]
+        },
+        {
+          "title": "Asing Terciduk Diam-Diam Borong 10 Saham Ini Kala IHSG Merah",
+          "link": "https://www.cnbcindonesia.com/market/20260728075645-17-754276/asing-terciduk-diam-diam-borong-10-saham-ini-kala-ihsg-merah",
+          "published": "2026-07-28T08:25:45+07:00",
+          "source": "CNBC",
+          "sentiment_score": -1,
+          "sentiment_terms": [
+            "negative:turun"
+          ]
+        }
+      ]
+    },
+    "confidence": 50,
+    "ai_context": {
+      "schema_version": "1.0",
+      "ticker": "BBCA.JK",
+      "provenance": {
+        "source": "Yahoo Finance",
+        "provider": "yahoo",
+        "retrieved_at": "2026-07-28T10:45:50.607302+00:00",
+        "exchange": "IDX"
+      },
+      "data_quality": {
+        "status": "OK",
+        "flags": [
+          "missing_values:open:3",
+          "missing_values:high:3",
+          "missing_values:low:3",
+          "missing_values:close:3",
+          "missing_values:volume:3",
+          "zero_volume_rows:7",
+          "calendar_gaps_gt_7d:1"
+        ],
+        "is_delayed": true,
+        "delay_seconds": null
+      },
+      "market_context": {
+        "ihsg_regime": "VOLATILE_UNCLEAR",
+        "macro_permission": "WAIT_ONLY"
+      },
+      "metrics": {
+        "date": "2026-07-28",
+        "close": 6225.0,
+        "volume": 122920300.0,
+        "cmf_20": 0.13492160068670425,
+        "atr_14": NaN,
+        "vwpa_traded_value": 765178867500.0,
+        "vwpa_value_ratio_20": 0.7231217099568938,
+        "vwpa_value_percentile_20": 0.2,
+        "vwpa_pressure_20": 0.1377455860444446,
+        "vwpa_signal": "NEUTRAL_VALUE_ACTION"
+      },
+      "analysis": {
+        "ticker": "BBCA.JK",
+        "analysis_date": "2026-07-28",
+        "data_status": "OK",
+        "ihsg_context": {
+          "ihsg_regime": "VOLATILE_UNCLEAR",
+          "ihsg_trend_score": 25,
+          "macro_permission": "WAIT_ONLY",
+          "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+        },
+        "wyckoff_vpa": {
+          "phase": "NEUTRAL_UNCLEAR",
+          "main_signal": "NO_CLEAR_SIGNAL",
+          "evidence": [
+            "cmf20_positive",
+            "cmf20_strengthening",
+            "cmf60_negative"
+          ],
+          "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+          "vwpa_pressure_20": 0.1377455860444446
+        },
+        "cmf": {
+          "cmf_10": 0.09309563650544055,
+          "cmf_20": 0.13492160068670425,
+          "cmf_60": -0.1363201316073986
+        },
+        "saturation_index": {
+          "accumulation_saturation_index": 35,
+          "distribution_saturation_index": 10
+        },
+        "relative_strength": {
+          "relative_strength_20": 0.035253147291934184,
+          "relative_strength_60": 0.16903414245162518,
+          "relative_strength_status": "OUTPERFORMING_IHSG"
+        },
+        "trade_plan": {
+          "trade_action": "WAIT",
+          "entry_type": "NO_ENTRY",
+          "entry_point": null,
+          "target_point_1": null,
+          "target_point_2": null,
+          "cut_loss_point": null,
+          "risk_per_share": null,
+          "reward_to_target_1": null,
+          "reward_to_target_2": null,
+          "rr_target_1": null,
+          "rr_target_2": null,
+          "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "macro_confirmation": "WAIT_ONLY",
+          "confidence": 50,
+          "news_confirmation": "NEWS_PRESENT_NO_STRONG_VPA_CONFIRMATION"
+        },
+        "news": {
+          "news_status": "OK",
+          "news_sentiment": "POSITIVE",
+          "news_score": 1,
+          "matched_articles": [
+            {
+              "title": "BCA (BBCA) Kantongi Laba Rp 29,5 T di Semester 1 2026",
+              "link": "https://www.cnbcindonesia.com/market/20260728170959-17-754496/bca--bbca--kantongi-laba-rp-295-t-di-semester-1-2026",
+              "published": "2026-07-28T17:21:38+07:00",
+              "source": "CNBC",
+              "sentiment_score": 2,
+              "sentiment_terms": [
+                "positive:laba",
+                "positive:naik"
+              ]
+            },
+            {
+              "title": "Asing Terciduk Diam-Diam Borong 10 Saham Ini Kala IHSG Merah",
+              "link": "https://www.cnbcindonesia.com/market/20260728075645-17-754276/asing-terciduk-diam-diam-borong-10-saham-ini-kala-ihsg-merah",
+              "published": "2026-07-28T08:25:45+07:00",
+              "source": "CNBC",
+              "sentiment_score": -1,
+              "sentiment_terms": [
+                "negative:turun"
+              ]
+            }
+          ]
+        },
+        "confidence": 50
+      },
+      "limitations": [
+        "Foreign flow, broker summary, orderbook, and tick data are omitted unless a licensed source supplies them.",
+        "This context is delayed/historical unless provider metadata explicitly says otherwise."
+      ]
+    }
+  },
+  {
+    "ticker": "BMRI.JK",
+    "analysis_date": "2026-07-28",
+    "data_status": "OK",
+    "ihsg_context": {
+      "ihsg_regime": "VOLATILE_UNCLEAR",
+      "ihsg_trend_score": 25,
+      "macro_permission": "WAIT_ONLY",
+      "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+    },
+    "wyckoff_vpa": {
+      "phase": "NEUTRAL_UNCLEAR",
+      "main_signal": "NO_CLEAR_SIGNAL",
+      "evidence": [
+        "cmf20_positive",
+        "cmf20_strengthening",
+        "cmf60_negative"
+      ],
+      "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+      "vwpa_pressure_20": 0.06249884031346909
+    },
+    "cmf": {
+      "cmf_10": -0.057566084197236765,
+      "cmf_20": 0.055600816449667946,
+      "cmf_60": -0.1293220539704739
+    },
+    "saturation_index": {
+      "accumulation_saturation_index": 35,
+      "distribution_saturation_index": 10
+    },
+    "relative_strength": {
+      "relative_strength_20": -0.021433409394622682,
+      "relative_strength_60": 0.051219633728025515,
+      "relative_strength_status": "INLINE_WITH_IHSG"
+    },
+    "trade_plan": {
+      "trade_action": "WAIT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "macro_confirmation": "WAIT_ONLY",
+      "confidence": 35,
+      "news_confirmation": "NO_RELEVANT_NEWS"
+    },
+    "news": {
+      "news_status": "NO_RELEVANT_NEWS",
+      "news_sentiment": "NEUTRAL",
+      "news_score": 0,
+      "matched_articles": []
+    },
+    "confidence": 35,
+    "ai_context": {
+      "schema_version": "1.0",
+      "ticker": "BMRI.JK",
+      "provenance": {
+        "source": "Yahoo Finance",
+        "provider": "yahoo",
+        "retrieved_at": "2026-07-28T10:45:51.074981+00:00",
+        "exchange": "IDX"
+      },
+      "data_quality": {
+        "status": "OK",
+        "flags": [
+          "missing_values:open:3",
+          "missing_values:high:3",
+          "missing_values:low:3",
+          "missing_values:close:3",
+          "missing_values:volume:3",
+          "zero_volume_rows:7",
+          "calendar_gaps_gt_7d:1"
+        ],
+        "is_delayed": true,
+        "delay_seconds": null
+      },
+      "market_context": {
+        "ihsg_regime": "VOLATILE_UNCLEAR",
+        "macro_permission": "WAIT_ONLY"
+      },
+      "metrics": {
+        "date": "2026-07-28",
+        "close": 4100.0,
+        "volume": 162841200.0,
+        "cmf_20": 0.055600816449667946,
+        "atr_14": NaN,
+        "vwpa_traded_value": 667648920000.0,
+        "vwpa_value_ratio_20": 0.9805077422055227,
+        "vwpa_value_percentile_20": 0.6,
+        "vwpa_pressure_20": 0.06249884031346909,
+        "vwpa_signal": "NEUTRAL_VALUE_ACTION"
+      },
+      "analysis": {
+        "ticker": "BMRI.JK",
+        "analysis_date": "2026-07-28",
+        "data_status": "OK",
+        "ihsg_context": {
+          "ihsg_regime": "VOLATILE_UNCLEAR",
+          "ihsg_trend_score": 25,
+          "macro_permission": "WAIT_ONLY",
+          "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+        },
+        "wyckoff_vpa": {
+          "phase": "NEUTRAL_UNCLEAR",
+          "main_signal": "NO_CLEAR_SIGNAL",
+          "evidence": [
+            "cmf20_positive",
+            "cmf20_strengthening",
+            "cmf60_negative"
+          ],
+          "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+          "vwpa_pressure_20": 0.06249884031346909
+        },
+        "cmf": {
+          "cmf_10": -0.057566084197236765,
+          "cmf_20": 0.055600816449667946,
+          "cmf_60": -0.1293220539704739
+        },
+        "saturation_index": {
+          "accumulation_saturation_index": 35,
+          "distribution_saturation_index": 10
+        },
+        "relative_strength": {
+          "relative_strength_20": -0.021433409394622682,
+          "relative_strength_60": 0.051219633728025515,
+          "relative_strength_status": "INLINE_WITH_IHSG"
+        },
+        "trade_plan": {
+          "trade_action": "WAIT",
+          "entry_type": "NO_ENTRY",
+          "entry_point": null,
+          "target_point_1": null,
+          "target_point_2": null,
+          "cut_loss_point": null,
+          "risk_per_share": null,
+          "reward_to_target_1": null,
+          "reward_to_target_2": null,
+          "rr_target_1": null,
+          "rr_target_2": null,
+          "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "macro_confirmation": "WAIT_ONLY",
+          "confidence": 35,
+          "news_confirmation": "NO_RELEVANT_NEWS"
+        },
+        "news": {
+          "news_status": "NO_RELEVANT_NEWS",
+          "news_sentiment": "NEUTRAL",
+          "news_score": 0,
+          "matched_articles": []
+        },
+        "confidence": 35
+      },
+      "limitations": [
+        "Foreign flow, broker summary, orderbook, and tick data are omitted unless a licensed source supplies them.",
+        "This context is delayed/historical unless provider metadata explicitly says otherwise."
+      ]
+    }
+  },
+  {
+    "ticker": "TLKM.JK",
+    "analysis_date": "2026-07-28",
+    "data_status": "OK",
+    "ihsg_context": {
+      "ihsg_regime": "VOLATILE_UNCLEAR",
+      "ihsg_trend_score": 25,
+      "macro_permission": "WAIT_ONLY",
+      "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+    },
+    "wyckoff_vpa": {
+      "phase": "NEUTRAL_UNCLEAR",
+      "main_signal": "NO_CLEAR_SIGNAL",
+      "evidence": [
+        "cmf20_positive",
+        "cmf20_strengthening",
+        "vwpa_value_accumulation_pressure",
+        "cmf60_negative"
+      ],
+      "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+      "vwpa_pressure_20": 0.22589870749780913
+    },
+    "cmf": {
+      "cmf_10": 0.051724486670904214,
+      "cmf_20": 0.22739797581924404,
+      "cmf_60": -0.054916203293044495
+    },
+    "saturation_index": {
+      "accumulation_saturation_index": 55,
+      "distribution_saturation_index": 10
+    },
+    "relative_strength": {
+      "relative_strength_20": 0.0029932277979720645,
+      "relative_strength_60": 0.051140551086665265,
+      "relative_strength_status": "INLINE_WITH_IHSG"
+    },
+    "trade_plan": {
+      "trade_action": "WAIT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+      "macro_confirmation": "WAIT_ONLY",
+      "confidence": 55,
+      "news_confirmation": "NEWS_PRESENT_NO_STRONG_VPA_CONFIRMATION"
+    },
+    "news": {
+      "news_status": "OK",
+      "news_sentiment": "NEUTRAL",
+      "news_score": 0,
+      "matched_articles": [
+        {
+          "title": "What Analysts Think Gives Telekom Indonesia (IDX:TLKM) A New Edge As The Story Shifts",
+          "link": "https://finance.yahoo.com/news/analysts-think-gives-telekom-indonesia-050351985.html?.tsrc=rss",
+          "published": "2026-02-09T05:03:51+00:00",
+          "source": "Yahoo Finance",
+          "sentiment_score": 0,
+          "sentiment_terms": []
+        }
+      ]
+    },
+    "confidence": 55,
+    "ai_context": {
+      "schema_version": "1.0",
+      "ticker": "TLKM.JK",
+      "provenance": {
+        "source": "Yahoo Finance",
+        "provider": "yahoo",
+        "retrieved_at": "2026-07-28T10:45:51.464838+00:00",
+        "exchange": "IDX"
+      },
+      "data_quality": {
+        "status": "OK",
+        "flags": [
+          "missing_values:open:3",
+          "missing_values:high:3",
+          "missing_values:low:3",
+          "missing_values:close:3",
+          "missing_values:volume:3",
+          "zero_volume_rows:7",
+          "calendar_gaps_gt_7d:1"
+        ],
+        "is_delayed": true,
+        "delay_seconds": null
+      },
+      "market_context": {
+        "ihsg_regime": "VOLATILE_UNCLEAR",
+        "macro_permission": "WAIT_ONLY"
+      },
+      "metrics": {
+        "date": "2026-07-28",
+        "close": 2560.0,
+        "volume": 69694800.0,
+        "cmf_20": 0.22739797581924404,
+        "atr_14": NaN,
+        "vwpa_traded_value": 178418688000.0,
+        "vwpa_value_ratio_20": 0.6810479225247882,
+        "vwpa_value_percentile_20": 0.25,
+        "vwpa_pressure_20": 0.22589870749780913,
+        "vwpa_signal": "NEUTRAL_VALUE_ACTION"
+      },
+      "analysis": {
+        "ticker": "TLKM.JK",
+        "analysis_date": "2026-07-28",
+        "data_status": "OK",
+        "ihsg_context": {
+          "ihsg_regime": "VOLATILE_UNCLEAR",
+          "ihsg_trend_score": 25,
+          "macro_permission": "WAIT_ONLY",
+          "macro_reason": "higher_high_higher_low, cmf20_strengthening"
+        },
+        "wyckoff_vpa": {
+          "phase": "NEUTRAL_UNCLEAR",
+          "main_signal": "NO_CLEAR_SIGNAL",
+          "evidence": [
+            "cmf20_positive",
+            "cmf20_strengthening",
+            "vwpa_value_accumulation_pressure",
+            "cmf60_negative"
+          ],
+          "vwpa_signal": "NEUTRAL_VALUE_ACTION",
+          "vwpa_pressure_20": 0.22589870749780913
+        },
+        "cmf": {
+          "cmf_10": 0.051724486670904214,
+          "cmf_20": 0.22739797581924404,
+          "cmf_60": -0.054916203293044495
+        },
+        "saturation_index": {
+          "accumulation_saturation_index": 55,
+          "distribution_saturation_index": 10
+        },
+        "relative_strength": {
+          "relative_strength_20": 0.0029932277979720645,
+          "relative_strength_60": 0.051140551086665265,
+          "relative_strength_status": "INLINE_WITH_IHSG"
+        },
+        "trade_plan": {
+          "trade_action": "WAIT",
+          "entry_type": "NO_ENTRY",
+          "entry_point": null,
+          "target_point_1": null,
+          "target_point_2": null,
+          "cut_loss_point": null,
+          "risk_per_share": null,
+          "reward_to_target_1": null,
+          "reward_to_target_2": null,
+          "rr_target_1": null,
+          "rr_target_2": null,
+          "position_invalidated_if": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "trade_reason": "IHSG volatile unclear; entry agresif tidak dibuat.",
+          "macro_confirmation": "WAIT_ONLY",
+          "confidence": 55,
+          "news_confirmation": "NEWS_PRESENT_NO_STRONG_VPA_CONFIRMATION"
+        },
+        "news": {
+          "news_status": "OK",
+          "news_sentiment": "NEUTRAL",
+          "news_score": 0,
+          "matched_articles": [
+            {
+              "title": "What Analysts Think Gives Telekom Indonesia (IDX:TLKM) A New Edge As The Story Shifts",
+              "link": "https://finance.yahoo.com/news/analysts-think-gives-telekom-indonesia-050351985.html?.tsrc=rss",
+              "published": "2026-02-09T05:03:51+00:00",
+              "source": "Yahoo Finance",
+              "sentiment_score": 0,
+              "sentiment_terms": []
+            }
+          ]
+        },
+        "confidence": 55
+      },
+      "limitations": [
+        "Foreign flow, broker summary, orderbook, and tick data are omitted unless a licensed source supplies them.",
+        "This context is delayed/historical unless provider metadata explicitly says otherwise."
+      ]
+    }
+  }
+]

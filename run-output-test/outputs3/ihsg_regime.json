@@ -1,0 +1,21 @@
+{
+  "ticker": "^JKSE",
+  "status": "OK",
+  "ihsg_regime": "VOLATILE_UNCLEAR",
+  "ihsg_trend_score": 25,
+  "ihsg_cmf_20": 0.18872610594250208,
+  "ihsg_cmf_60": -0.021638000705901946,
+  "ihsg_vpa_signal": "NO_CLEAR_VPA_SIGNAL",
+  "macro_permission": "WAIT_ONLY",
+  "macro_reason": "higher_high_higher_low, cmf20_strengthening",
+  "as_of_date": "2026-07-28",
+  "evidence": {
+    "close": 6130.587890625,
+    "ma20": 6053.2830078125,
+    "ma50": null,
+    "ma200": null,
+    "ma50_slope_10": null,
+    "market_structure": "UPTREND",
+    "cmf20_delta_10": 0.11969271981303474
+  }
+}

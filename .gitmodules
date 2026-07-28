@@ -1,0 +1,5 @@
+[submodule "vendor/FinceptTerminal"]
+	path = vendor/FinceptTerminal
+	url = https://github.com/Fincept-Corporation/FinceptTerminal.git
+	branch = main
+	shallow = true

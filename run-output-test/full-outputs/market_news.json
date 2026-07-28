@@ -1,0 +1,1026 @@
+{
+  "feed": {
+    "status": "OK",
+    "sources": [
+      {
+        "status": "OK",
+        "name": "CNBC",
+        "source": "https://www.cnbcindonesia.com/market/rss",
+        "fetched_at": "2026-07-28T10:47:21.926869+00:00",
+        "items": 100
+      },
+      {
+        "status": "OK",
+        "name": "IDX",
+        "source": "https://www.idx.id/en/news/news/",
+        "fetched_at": "2026-07-28T10:47:22.118483+00:00",
+        "items": 1
+      },
+      {
+        "status": "OK",
+        "name": "Bloomberg",
+        "source": "https://feeds.bloomberg.com/markets/news.rss",
+        "fetched_at": "2026-07-28T10:47:23.413562+00:00",
+        "items": 20
+      },
+      {
+        "status": "OK",
+        "name": "Yahoo Finance",
+        "source": "https://finance.yahoo.com/rss/headline?s=%5EJKSE,BBCA.JK,BBRI.JK,BMRI.JK,TLKM.JK",
+        "fetched_at": "2026-07-28T10:47:24.681507+00:00",
+        "items": 20
+      }
+    ],
+    "fetched_at": "2026-07-28T10:47:25.024364+00:00",
+    "items": 141
+  },
+  "items": [
+    {
+      "title": "BCA (BBCA) Kantongi Laba Rp 29,5 T di Semester 1 2026",
+      "link": "https://www.cnbcindonesia.com/market/20260728170959-17-754496/bca--bbca--kantongi-laba-rp-295-t-di-semester-1-2026",
+      "published": "2026-07-28T17:21:38+07:00",
+      "summary": "Bank Central Asia (BBCA) melaporkan laba bersih Rp29,5 triliun di semester I-2026, naik 1,8% yoy.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bankir Cemas Likuiditas Kering di Era Suku Bunga Tinggi",
+      "link": "https://www.cnbcindonesia.com/market/20260728153610-17-754450/bankir-cemas-likuiditas-kering-di-era-suku-bunga-tinggi",
+      "published": "2026-07-28T17:20:18+07:00",
+      "summary": "Perbankan menghadapi tantangan likuiditas ketat akibat suku bunga acuan tinggi. Biaya pendanaan meningkat, memicu bank mengeluh dan menekan margin bunga.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Lemas di Sesi 2, Ditutup Turun 0,89%",
+      "link": "https://www.cnbcindonesia.com/market/20260728152909-17-754449/ihsg-lemas-di-sesi-2-ditutup-turun-089",
+      "published": "2026-07-28T16:35:29+07:00",
+      "summary": "IHSG turun\u00a00,89%\u00a0di tengah tekanan bursa Asia dan pelemahan rupiah. Sektor properti menjadi pemberat utama.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Rupiah Lanjut Melemah, Dolar AS Ditutup Naik ke Rp18.055",
+      "link": "https://www.cnbcindonesia.com/market/20260728145147-17-754441/rupiah-lanjut-melemah-dolar-as-ditutup-naik-ke-rp18055",
+      "published": "2026-07-28T15:04:25+07:00",
+      "summary": "Nilai tukar rupiah masih tak kuasa menahan tekanan dolar Amerika Serikat (AS).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Investor Catat! BNI (BBNI) Mau Buyback Saham Rp 627 Miliar",
+      "link": "https://www.cnbcindonesia.com/market/20260728134420-17-754420/investor-catat-bni--bbni--mau-buyback-saham-rp-627-miliar",
+      "published": "2026-07-28T15:00:21+07:00",
+      "summary": "PT Bank Negara Indonesia (BNI) rencanakan buyback saham kedua tahun ini senilai Rp627 miliar untuk stabilisasi pasar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Awas Snapboost! Modus Dugaan Penipuan Like dan Share di Tiktok Cs",
+      "link": "https://www.cnbcindonesia.com/market/20260728143111-17-754434/awas-snapboost-modus-dugaan-penipuan-like-share-di-tiktok-cs",
+      "published": "2026-07-28T14:49:23+07:00",
+      "summary": "Satgas Pasti hentikan Snapboost, platform penipuan investasi ilegal. Masyarakat diimbau laporkan aktivitas mencurigakan untuk perlindungan lebih lanjut.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Emiten Bengkel Pesawat Garuda (GMFI) Mau Hapus Saldo Defisit Rp 9 T",
+      "link": "https://www.cnbcindonesia.com/market/20260728130336-17-754391/emiten-bengkel-pesawat-garuda--gmfi--mau-hapus-saldo-defisit-rp-9-t",
+      "published": "2026-07-28T14:45:34+07:00",
+      "summary": "Garuda Maintenance Facility (GMFI) laksanakan kuasi reorganisasi untuk perkuat struktur permodalan.",
+      "source": "CNBC"
+    },
+    {
+      "title": "DPR Wanti-Wanti Reputasi Jadi Modal PFII Gaet BlackRock Cs",
+      "link": "https://www.cnbcindonesia.com/market/20260728131041-17-754392/dpr-wanti-wanti-reputasi-jadi-modal-pfii-gaet-blackrock-cs",
+      "published": "2026-07-28T14:25:03+07:00",
+      "summary": "Komisi XI DPR mengungkapkan reputasi menjadi salah satu modal PFII untuk bisa bersaing dengan pusat finansial global",
+      "source": "CNBC"
+    },
+    {
+      "title": "GOTO Siap Umumkan Kinerja Kuartal II-2026, Begini Respon Analis",
+      "link": "https://www.cnbcindonesia.com/market/20260728135625-17-754426/goto-siap-umumkan-kinerja-kuartal-ii-2026-begini-respon-analis",
+      "published": "2026-07-28T14:07:02+07:00",
+      "summary": "PT GoTo Gojek Tokopedia (GOTO) akan memaparkan kinerja keuangan pada 29 Juli 2026. Analis tetap optimis meski ada kebijakan komisi 8% untuk ojek online.",
+      "source": "CNBC"
+    },
+    {
+      "title": "BEI Rombak Konstituen IDX80, LQ45 dan IDX30",
+      "link": "https://www.cnbcindonesia.com/market/20260728133923-17-754414/bei-rombak-konstituen-idx80-lq45-dan-idx30",
+      "published": "2026-07-28T14:05:23+07:00",
+      "summary": "PT Bursa Efek Indonesia mengumumkan evaluasi indeks saham untuk periode Juli 2026, termasuk perubahan konstituen dan penyesuaian bobot",
+      "source": "CNBC"
+    },
+    {
+      "title": "Gerak IHSG Masih Malu-Malu, Intip Pergerakan Asing di Sesi 1",
+      "link": "https://www.cnbcindonesia.com/market/20260728132515-17-754402/gerak-ihsg-masih-malu-malu-intip-pergerakan-asing-di-sesi-1",
+      "published": "2026-07-28T13:50:15+07:00",
+      "summary": "Investor asing mencatatkan net sell Rp228,1 miliar pada sesi I, Selasa (28/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tabungan Menipis, Warga RI Andalkan Kartu Kredit-Paylater Buat Belanja",
+      "link": "https://www.cnbcindonesia.com/market/20260728120320-17-754368/tabungan-menipis-warga-ri-andalkan-kartu-kredit-paylater-buat-belanja",
+      "published": "2026-07-28T13:35:10+07:00",
+      "summary": "Pemenuhan kebutuhan hidup masyarakat Indonesia mulai banyak menggunakan fasilitas pinjaman.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Orang Kaya RI Makin Getol Nabung Dolar, Ini Buktinya",
+      "link": "https://www.cnbcindonesia.com/market/20260728115028-17-754364/orang-kaya-ri-makin-getol-nabung-dolar-ini-buktinya",
+      "published": "2026-07-28T13:25:00+07:00",
+      "summary": "Orang kaya makin gemar menabung dolar Amerika Serikat (AS), seiring dengan pelemahan nilai tukar rupiah.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Media Asing Sorot IHSG, Disebut Sudah Masuk Bull Market",
+      "link": "https://www.cnbcindonesia.com/market/20260728113134-17-754366/media-asing-sorot-ihsg-disebut-sudah-masuk-bull-market",
+      "published": "2026-07-28T13:15:51+07:00",
+      "summary": "Pasar saham Indonesia menunjukkan pemulihan setelah terpuruk. IHSG naik lebih dari 10% berkat valuasi murah dan dukungan dari regulator serta investor asing.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Warga RI Kini Belanja Pakai Uang Hasil Pinjam, Ini Buktinya!",
+      "link": "https://www.cnbcindonesia.com/market/20260728115549-17-754365/warga-ri-kini-belanja-pakai-uang-hasil-pinjam-ini-buktinya",
+      "published": "2026-07-28T13:10:02+07:00",
+      "summary": "Seiring dengan tumbuhnya kemampuan belanja masyarakat, data Mandiri Saving Index tercatat tumbuh 5,7% dengan angka indeks sebesar 84,8.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Top! UNVR Cetak Penjualan Bersih Rp16,9 T di Semester I-2026",
+      "link": "https://www.cnbcindonesia.com/market/20260728124000-17-754378/top-unvr-cetak-penjualan-bersih-rp169-t-di-semester-i-2026",
+      "published": "2026-07-28T12:45:14+07:00",
+      "summary": "PT Unilever Indonesia mencatat pertumbuhan positif di semester I-2026 dengan penjualan domestik tumbuh 7,1%.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Bertahan di Tengah Kepanikan Bursa Asia, Sesi 1 Turun 0,04%",
+      "link": "https://www.cnbcindonesia.com/market/20260728122924-17-754376/ihsg-bertahan-di-tengah-kepanikan-bursa-asia-sesi-1-turun-004",
+      "published": "2026-07-28T12:37:50+07:00",
+      "summary": "IHSG melemah 0,04% di tengah tekanan sektor properti, meski sektor bahan baku menguat. Nilai transaksi mencapai Rp5,22 triliun dengan 349 saham menguat.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Santer Kabar Mau Diakuisisi, Bos Emiten RI Ini Buka Suara",
+      "link": "https://www.cnbcindonesia.com/market/20260728105505-17-754349/santer-kabar-mau-diakuisisi-bos-emiten-ri-ini-buka-suara",
+      "published": "2026-07-28T12:10:15+07:00",
+      "summary": "Emiten properti PT Andalan Sakti Primaindo Tbk (ASPI) buka suara terkait rencana pengambilalihan saham oleh PT GMP Group Investama.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Danantara Kini Gabung KSSK, Bos LPS Beberkan Alasannya!",
+      "link": "https://www.cnbcindonesia.com/market/20260728110045-17-754354/danantara-kini-gabung-kssk-bos-lps-beberkan-alasannya",
+      "published": "2026-07-28T11:55:59+07:00",
+      "summary": "Presiden Prabowo meminta KSSK untuk melibatkan Danantara dalam pengambilan keputusan.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Obligasi Korporasi Jatuh Tempo di Agustus 2026 Rp9,90 T, Ini Daftarnya",
+      "link": "https://www.cnbcindonesia.com/market/20260728101712-17-754335/obligasi-korporasi-jatuh-tempo-di-agustus-2026-rp990-t-ini-daftarnya",
+      "published": "2026-07-28T11:45:23+07:00",
+      "summary": "Jumlah surat utang korporasi yang akan jatuh tempo pada bulan Agustus 2026 mencapai Rp9,90 triliun.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bos LPS Ungkap Hasil Rapat dengan Prabowo Usai Perry Warjiyo Mundur",
+      "link": "https://www.cnbcindonesia.com/market/20260728110650-17-754355/bos-lps-ungkap-hasil-rapat-dengan-prabowo-usai-perry-warjiyo-mundur",
+      "published": "2026-07-28T11:30:00+07:00",
+      "summary": "Ketua LPS Anggito Abimanyu menyatakan stabilitas ekonomi terjaga pasca pengunduran diri Gubernur BI Perry Warjiyo.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bursa Asia Ambrol! Kospi Korea Terjun 10%, Ini Biang Keroknya",
+      "link": "https://www.cnbcindonesia.com/market/20260728104944-17-754348/bursa-asia-ambrol-kospi-korea-terjun-10-ini-biang-keroknya",
+      "published": "2026-07-28T11:07:52+07:00",
+      "summary": "Bursa\u00a0Asia mengalami tekanan hebat, dengan\u00a0Kospi anjlok lebih dari 10%.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Mengapa RI Arahkan Kiblat ke Dubai Bangun Pusat Finansial Global?",
+      "link": "https://www.cnbcindonesia.com/market/20260728101226-17-754328/mengapa-ri-arahkan-kiblat-ke-dubai-bangun-pusat-finansial-global",
+      "published": "2026-07-28T10:50:26+07:00",
+      "summary": "Komisi XI Dewan Perwakilan Rakyat (DPR) memiliki alasan khusus menjadikan pusat finansial Dubai\u00a0sebagai kiblat pembentukan PFII",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: IHSG Labil Jelang FOMC The Fed - Rupiah Masih Dalam Tekanan",
+      "link": "https://www.cnbcindonesia.com/market/20260728102915-19-754340/video-ihsg-labil-jelang-fomc-the-fed--rupiah-masih-dalam-tekanan",
+      "published": "2026-07-28T10:40:52+07:00",
+      "summary": "IHSG Labil Jelang FOMC The Fed - Rupiah Masih Dalam Tekanan",
+      "source": "CNBC"
+    },
+    {
+      "title": "Harga Minyak Turun Lagi, Kini Sudah di US$87,86",
+      "link": "https://www.cnbcindonesia.com/market/20260728091746-17-754318/harga-minyak-turun-lagi-kini-sudah-di-us-8786",
+      "published": "2026-07-28T10:35:07+07:00",
+      "summary": "Harga minyak dunia kembali melemah pada perdagangan Selasa (28/7/2026) setelah pelaku pasar merespons peluang meredanya ketegangan geopolitik di Timur Tengah.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Siap-Siap, BNI (BBNI) Mau Buyback Saham Rp627 Miliar",
+      "link": "https://www.cnbcindonesia.com/market/20260728102344-17-754337/siap-siap-bni--bbni--mau-buyback-saham-rp627-miliar",
+      "published": "2026-07-28T10:25:23+07:00",
+      "summary": "PT Bank Negara Indonesia (Persero) Tbk. (BBNI) merencanakan untuk melakukan pembelian kembali alias buyback saham",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: DPR Sebut Bebas Pajak 50 Tahun Jadi Daya Tarik Investasi PFII",
+      "link": "https://www.cnbcindonesia.com/market/20260727153025-19-754172/video-dpr-sebut-bebas-pajak-50-tahun-jadi-daya-tarik-investasi-pfii",
+      "published": "2026-07-28T10:22:45+07:00",
+      "summary": "DPR Sebut Bebas Pajak 50 Tahun Jadi Daya Tarik Investasi di PFII",
+      "source": "CNBC"
+    },
+    {
+      "title": "DPR Pasang Target Besar PFII: Tambah Dorongan Pertumbuhan Ekonomi 0,5%",
+      "link": "https://www.cnbcindonesia.com/market/20260728090741-17-754316/dpr-pasang-target-besar-pfii-tambah-dorongan-pertumbuhan-ekonomi-05",
+      "published": "2026-07-28T10:20:02+07:00",
+      "summary": "Komisi XI Dewan Perwakilan Rakyat (DPR) menargetkan keberadaan PFII dapat membantu percepatan pertumbuhan ekonomi Indonesia.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ini Harapan Para Bankir Kepada Sosok Gubernur BI Baru",
+      "link": "https://www.cnbcindonesia.com/market/20260728092923-17-754323/ini-harapan-para-bankir-kepada-sosok-gubernur-bi-baru",
+      "published": "2026-07-28T10:10:15+07:00",
+      "summary": "Bankir berharap Gubernur BI baru dapat menjaga stabilitas dan likuiditas pasar setelah pengunduran diri Perry Warjiyo.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Terungkap Faktor Krusial di Balik Penyusunan UU PFII Selesai 3 Bulan",
+      "link": "https://www.cnbcindonesia.com/market/20260728084941-17-754309/terungkap-faktor-krusial-di-balik-penyusunan-uu-pfii-selesai-3-bulan",
+      "published": "2026-07-28T09:50:19+07:00",
+      "summary": "DPR\u00a0membeberkan alasan Undang-undang (UU) Pusat Finansial Internasional Indonesia (PFII)\u00a0dapat selesai disusun\u00a0dalam tiga bulan",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ramalan Kinerja Rupiah di Tangan Pjs Gubernur BI Destry Damayanti",
+      "link": "https://www.cnbcindonesia.com/market/20260728084208-17-754303/ramalan-kinerja-rupiah-di-tangan-pjs-gubernur-bi-destry-damayanti",
+      "published": "2026-07-28T09:35:01+07:00",
+      "summary": "Analis memperkirakan nilai tukar rupiah terhadap dolar akan bergerak di rentang Rp17.800/1US$ hingga Rp18.100/1US$ pasca.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: IHSG Dibuka Melemah dan Rupiah Anjlok ke Rp 18.060 per USD",
+      "link": "https://www.cnbcindonesia.com/market/20260728092958-19-754320/video-ihsg-dibuka-melemah-rupiah-anjlok-ke-rp-18060-per-usd",
+      "published": "2026-07-28T09:32:20+07:00",
+      "summary": "IHSG Dibuka Melemah dan Rupiah Anjlok ke Rp 18.060 per USD",
+      "source": "CNBC"
+    },
+    {
+      "title": "Komisaris KAEF Sumarjati Arjoso Tutup Usia",
+      "link": "https://www.cnbcindonesia.com/market/20260728080924-17-754293/komisaris-kaef-sumarjati-arjoso-tutup-usia",
+      "published": "2026-07-28T09:15:24+07:00",
+      "summary": "PT Kimia Farma mengumumkan duka cita atas meninggalnya Komisaris Sumarjati Arjoso pada 24 Juli 2026. Manajemen memastikan operasional perusahaan tetap berjalan.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Dibuka Melemah 0,17% ke Level 6.175",
+      "link": "https://www.cnbcindonesia.com/market/20260728085005-17-754314/ihsg-dibuka-melemah-017-ke-level-6175",
+      "published": "2026-07-28T09:05:09+07:00",
+      "summary": "IHSG dibuka melemah di level 6.175,19. Pelaku pasar bersikap hati-hati menjelang agenda ekonomi global penting. Perry Warjiyo mundur dari Gubernur BI.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Rupiah Terkoreksi, Pagi Ini Dolar AS Dibuka Naik ke Rp18.060",
+      "link": "https://www.cnbcindonesia.com/market/20260728083205-17-754311/rupiah-terkoreksi-pagi-ini-dolar-as-dibuka-naik-ke-rp18060",
+      "published": "2026-07-28T09:03:25+07:00",
+      "summary": "Mata uang Garuda kembali dibuka melemah terhadap dolar Amerika Serikat (AS) pada perdagangan Selasa (28/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Harga Saham Naik Turun Signifikan, BEI Pantau Ketat 3 Saham Ini",
+      "link": "https://www.cnbcindonesia.com/market/20260728084528-17-754306/harga-saham-naik-turun-signifikan-bei-pantau-ketat-3-saham-ini",
+      "published": "2026-07-28T09:00:28+07:00",
+      "summary": "Bursa Efek Indonesia memantau tiga saham, TAMA, DOOH, dan FILM, karena pergerakan harga yang tidak wajar. Investor diimbau untuk waspada.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Intip 5 Rekomendasi Saham yang Potensi Kasih Cuan Hari Ini",
+      "link": "https://www.cnbcindonesia.com/market/20260728082055-17-754296/intip-5-rekomendasi-saham-yang-potensi-kasih-cuan-hari-ini",
+      "published": "2026-07-28T08:55:49+07:00",
+      "summary": "IHSG melemah 0,17% di tengah penyesuaian investor menjelang rebalancing.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Banyak Agenda Penting, Bursa Asia Kompak Loyo",
+      "link": "https://www.cnbcindonesia.com/market/20260728080702-17-754283/banyak-agenda-penting-bursa-asia-kompak-loyo",
+      "published": "2026-07-28T08:45:02+07:00",
+      "summary": "Bursa saham Asia melemah pada 28 Juli 2026, investor waspada menjelang laporan keuangan raksasa teknologi dan keputusan suku bunga Federal Reserve.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Lo Kheng Hong Borong Saham GJTL, Kini Kuasai 7,03%",
+      "link": "https://www.cnbcindonesia.com/market/20260728080052-17-754278/lo-kheng-hong-borong-saham-gjtl-kini-kuasai-703",
+      "published": "2026-07-28T08:35:02+07:00",
+      "summary": "Investor Lo Kheng Hong menambah kepemilikan saham di PT Gajah Tunggal Tbk dengan membeli 5,18 juta lembar saham seharga Rp1.140 per lembar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Asing Terciduk Diam-Diam Borong 10 Saham Ini Kala IHSG Merah",
+      "link": "https://www.cnbcindonesia.com/market/20260728075645-17-754276/asing-terciduk-diam-diam-borong-10-saham-ini-kala-ihsg-merah",
+      "published": "2026-07-28T08:25:45+07:00",
+      "summary": "IHSG turun 0,17% pasca pengunduran diri Gubernur BI Perry Warjiyo. Investor asing jual bersih Rp820,67 miliar, dengan BBCA jadi saham terfavorit.",
+      "source": "CNBC"
+    },
+    {
+      "title": "PERBANAS Buka Suara Soal Pergantian Gubernur BI",
+      "link": "https://www.cnbcindonesia.com/market/20260728081244-17-754295/perbanas-buka-suara-soal-pergantian-gubernur-bi",
+      "published": "2026-07-28T08:17:45+07:00",
+      "summary": "PERBANAS menghormati pengunduran diri Perry Warjiyo sebagai Gubernur BI.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Kelola Dana Rp180 T, BPKH Beberkan Strategi Masuk Pasar Modal",
+      "link": "https://www.cnbcindonesia.com/market/20260728075428-17-754274/kelola-dana-rp180-t-bpkh-beberkan-strategi-masuk-pasar-modal",
+      "published": "2026-07-28T08:00:28+07:00",
+      "summary": "BPKH mencatat saldo dana kelolaan mencapai Rp180,74 triliun di 2025, naik 5,3% yoy. Investasi utama di SBSN dan pasar modal, dengan nilai manfaat Rp12 triliun.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Melemah Pasca Gubernur BI Mundur, Asing Kompak Lego 10 Saham Ini",
+      "link": "https://www.cnbcindonesia.com/market/20260728075221-17-754273/ihsg-melemah-pasca-gubernur-bi-mundur-asing-kompak-lego-10-saham-ini",
+      "published": "2026-07-28T07:53:55+07:00",
+      "summary": "IHSG turun 0,17% setelah pengunduran diri Perry Warjiyo sebagai Gubernur BI. Investor asing mencatatkan penjualan bersih Rp820,67 miliar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "DPLK Jadi Ladang Baru Manajer Investasi, Satu Sudah Daftar",
+      "link": "https://www.cnbcindonesia.com/market/20260727172318-17-754222/dplk-jadi-ladang-baru-manajer-investasi-satu-sudah-daftar",
+      "published": "2026-07-27T21:40:24+07:00",
+      "summary": "OJK mendukung pendirian Dana Pensiun Lembaga Keuangan oleh Manajer Investasi. DPLK diharapkan meningkatkan inovasi dan penetrasi program pensiun di Indonesia.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tawarkan Kupon Menarik, Cari Tahu Cara Beli ORI030 di BRImo",
+      "link": "https://www.cnbcindonesia.com/market/20260727213042-17-754254/tawarkan-kupon-menarik-cari-tahu-cara-beli-ori030-di-brimo",
+      "published": "2026-07-27T21:37:33+07:00",
+      "summary": "Pemerintah meluncurkan ORI030, obligasi ritel dengan kupon tetap dan tenor 3-6 tahun. Investasi mudah melalui aplikasi BRImo, cocok diversifikasi portofolio.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bos LPS Bantah Ada Fenomena Masyarakat RI Makan Duit Tabungan",
+      "link": "https://www.cnbcindonesia.com/market/20260727195007-17-754247/bos-lps-bantah-ada-fenomena-masyarakat-ri-makan-duit-tabungan",
+      "published": "2026-07-27T20:05:00+07:00",
+      "summary": "Ketua LPS Anggito Abimanyu menegaskan bahwa simpanan masyarakat tetap tumbuh, menandakan likuiditas dan dukungan terhadap ekonomi tetap positif.",
+      "source": "CNBC"
+    },
+    {
+      "title": "OJK Susun Ulang Aturan Unitlink, Ini Bocorannya",
+      "link": "https://www.cnbcindonesia.com/market/20260727170124-17-754209/ojk-susun-ulang-aturan-unitlink-ini-bocorannya",
+      "published": "2026-07-27T19:50:00+07:00",
+      "summary": "OJK sedang menyusun Rancangan POJK untuk Produk Asuransi yang Dikaitkan dengan Investasi (PAYDI) yang ditargetkan selesai pada akhir 2026.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Perry Warjiyo Mundur, Pjs Gubernur BI: Market Tidak Perlu Panik",
+      "link": "https://www.cnbcindonesia.com/market/20260727192344-17-754242/perry-warjiyo-mundur-pjs-gubernur-bi-market-tidak-perlu-panik",
+      "published": "2026-07-27T19:27:10+07:00",
+      "summary": "Destry Damayanti meminta pelaku pasar agar tidak panik setelah mundurnya Perry Warjiyo.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Prabowo Minta KSSK Libatkan Danantara Dalam Pengambilan Keputusan",
+      "link": "https://www.cnbcindonesia.com/market/20260727190657-17-754238/prabowo-minta-kssk-libatkan-danantara-dalam-pengambilan-keputusan",
+      "published": "2026-07-27T19:11:25+07:00",
+      "summary": "Presiden Prabowo Subianto menggelar rapat terbatas dengan jajaran Komite Stabilitas Sistem Keuangan (KSSK) dan Badan Pengelola Investasi (BPI) Danantara.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Investasi Dapen di SBN Tumbuh Tinggi, Tembus Rp1.600 T",
+      "link": "https://www.cnbcindonesia.com/market/20260727173614-17-754223/investasi-dapen-di-sbn-tumbuh-tinggi-tembus-rp1600-t",
+      "published": "2026-07-27T18:45:22+07:00",
+      "summary": "OJK melaporkan porsi investasi dana pensiun di SBN meningkat menjadi 65,25% dari total Rp1.619,54 triliun.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ketahanan Modal Mayoritas Asuransi Bakal Turun, Ada Apa?",
+      "link": "https://www.cnbcindonesia.com/market/20260727163458-17-754203/ketahanan-modal-mayoritas-asuransi-bakal-turun-ada-apa",
+      "published": "2026-07-27T18:30:26+07:00",
+      "summary": "OJK mengungkapkan mayoritas perusahaan asuransi berpotensi alami penurunan rasio solvabilitas.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Fit and Proper Test Gubernur BI Berpotensi Molor karena Reses DPR",
+      "link": "https://www.cnbcindonesia.com/market/20260727172903-17-754221/fit-and-proper-test-gubernur-bi-berpotensi-molor-karena-reses-dpr",
+      "published": "2026-07-27T18:25:08+07:00",
+      "summary": "Komisi XI DPR RI menanggapi rencana fit and proper test calon gubernur BI setelah Perry Warjiyo mundur. Uji kelayakan bisa dilakukan setelah 14 Agustus.",
+      "source": "CNBC"
+    },
+    {
+      "title": "DPR Beberkan Syarat Utama Calon Gubernur BI, Bukan Cuma Jago Moneter",
+      "link": "https://www.cnbcindonesia.com/market/20260727164816-17-754206/dpr-beberkan-syarat-utama-calon-gubernur-bi-bukan-cuma-jago-moneter",
+      "published": "2026-07-27T17:50:14+07:00",
+      "summary": "Komisi XI DPR belum mengungkap calon gubernur Bank Indonesia pengganti Perry Warjiyo. Wakil Ketua Hekal menekankan pentingnya pemahaman makroprudensial.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Pasar Pantau The Fed hingga Efek Perry Warjiyo Mundur ke Rupiah",
+      "link": "https://www.cnbcindonesia.com/market/20260727172057-19-754220/video-pasar-pantau-the-fed-hingga-efek-perry-warjiyo-mundur-ke-rupiah",
+      "published": "2026-07-27T17:30:46+07:00",
+      "summary": "Uji Efek Perry Warjiyo Mundur ke Rupiah\u00a0- Pasar Tahan Napas Tunggu The Fed",
+      "source": "CNBC"
+    },
+    {
+      "title": "Pjs Gubernur BI Destry Datangi Istana, Tegaskan Rupiah Jadi Prioritas",
+      "link": "https://www.cnbcindonesia.com/market/20260727164421-17-754205/pjs-gubernur-bi-destry-datangi-istana-tegaskan-rupiah-jadi-prioritas",
+      "published": "2026-07-27T16:48:02+07:00",
+      "summary": "Pjs Gubernur BI Destry Damayanti tiba di Istana Negara untuk rapat koordinasi setelah pengunduran diri Perry Warjiyo. Stabilitas keuangan tetap jadi prioritas.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Pangkas Koreksi, Pasar Tak Panik Meski Perry Mundur dari BI",
+      "link": "https://www.cnbcindonesia.com/market/20260727155331-17-754190/ihsg-pangkas-koreksi-pasar-tak-panik-meski-perry-mundur-dari-bi",
+      "published": "2026-07-27T16:30:48+07:00",
+      "summary": "IHSG meredam sentimen negatif setelah pengunduran diri Perry Warjiyo, ditutup di 6.185,78. Sektor keuangan menguat, sementara utilitas dan properti tertekan.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Prabowo Panggil Purbaya, Bos OJK, LPS dan Gubernur BI Baru, Bahas Ini!",
+      "link": "https://www.cnbcindonesia.com/market/20260727161315-17-754198/prabowo-panggil-purbaya-bos-ojk-lps-gubernur-bi-baru-bahas-ini",
+      "published": "2026-07-27T16:17:59+07:00",
+      "summary": "Presiden Prabowo Subianto memanggil seluruh anggota Komite Stabilitas Sistem Keuangan (KSSK) di Istana Negara, Senin (27/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: DPR Soal Mundurnya Gubernur BI dan Kriteria Calon Penggantinya",
+      "link": "https://www.cnbcindonesia.com/market/20260727153025-19-754170/video-dpr-soal-mundurnya-gubernur-bi-kriteria-calon-penggantinya",
+      "published": "2026-07-27T16:01:23+07:00",
+      "summary": "DPR Bicara Soal Mundurnya Gubernur BI, Perry Warjiyo dan Calon Penggantinya",
+      "source": "CNBC"
+    },
+    {
+      "title": "DPR Sebut Destry Sosok Pas Gantikan Perry Jaga Kurs Rupiah",
+      "link": "https://www.cnbcindonesia.com/market/20260727144712-17-754157/dpr-sebut-destry-sosok-pas-gantikan-perry-jaga-kurs-rupiah",
+      "published": "2026-07-27T16:00:12+07:00",
+      "summary": "Wakil Ketua Komisi XI DPR Mohamad Hekal\u00a0menilai penunjukan Destry Damayanti sebagai Pjs Gubernur BI sesuai UU dan ideal untuk stabilitas nilai tukar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Sempat Tak Punya Uang, PT Pos Sudah Bisa Bayar Imbal Sukuk",
+      "link": "https://www.cnbcindonesia.com/market/20260727151459-17-754168/sempat-tak-punya-uang-pt-pos-sudah-bisa-bayar-imbal-sukuk",
+      "published": "2026-07-27T15:55:25+07:00",
+      "summary": "Pos Indonesia telah menyelesaikan pembayaran cicilan imbal ijarah dan kompensasi kerugian atas keterlambatan Sukuk Ijarah Berkelanjutan I Tahun 2024.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: PFII Tiru Dubai, Sukses Ubah Padang Pasar Jadi Pusat Finansial",
+      "link": "https://www.cnbcindonesia.com/market/20260727153023-19-754171/video-pfii-tiru-dubai-sukses-ubah-padang-pasar-jadi-pusat-finansial",
+      "published": "2026-07-27T15:47:51+07:00",
+      "summary": "PFII Nyontek Dubai, Sukses Ubah Padang Pasar Jadi Pusat Finansial Internasional",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Gubernur BI Mundur Jadi Perhatian Pasar, IHSG dan Rupiah Lesu",
+      "link": "https://www.cnbcindonesia.com/market/20260727131848-19-754104/video-gubernur-bi-mundur-jadi-perhatian-pasar-ihsg-rupiah-lesu",
+      "published": "2026-07-27T15:38:00+07:00",
+      "summary": "Gubernur BI Mundur Jadi Perhatian Investor, IHSG Lesu dan Rupiah Melemah",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Pasar Pantau BI dan Pengganti Perry Warjiyo, Rupiah Melemah",
+      "link": "https://www.cnbcindonesia.com/market/20260727131849-19-754105/video-pasar-pantau-bi-pengganti-perry-warjiyo-rupiah-melemah",
+      "published": "2026-07-27T15:23:59+07:00",
+      "summary": "Pasar Pantau Independensi Bank Indonesia dan Pengganti Perry Warjiyo, Rupiah Melemah",
+      "source": "CNBC"
+    },
+    {
+      "title": "Komisi XI: Presiden Bisa Beri Maksimal 3 Nama Calon Gubernur BI",
+      "link": "https://www.cnbcindonesia.com/market/20260727134938-17-754135/komisi-xi-presiden-bisa-beri-maksimal-3-nama-calon-gubernur-bi",
+      "published": "2026-07-27T15:20:38+07:00",
+      "summary": "Wakil Ketua Komisi XI DPR, Mohamad Hekal, menyatakan DPR belum menerima nama calon Gubernur BI definitif setelah pengunduran diri Perry Warjiyo.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Usai Perry Mundur dari BI, Rupiah Ditutup Melemah ke Rp18.000/US$",
+      "link": "https://www.cnbcindonesia.com/market/20260727144303-17-754162/usai-perry-mundur-dari-bi-rupiah-ditutup-melemah-ke-rp18000-us-",
+      "published": "2026-07-27T15:07:42+07:00",
+      "summary": "Nilai tukar rupiah kembali ditutup melemah terhadap dolar Amerika Serikat (AS) pada perdagangan Senin (27/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bank Mega Syariah Bidik Pertumbuhan DPK dari Bisnis Tabungan Haji",
+      "link": "https://www.cnbcindonesia.com/market/20260727144812-17-754158/bank-mega-syariah-bidik-pertumbuhan-dpk-dari-bisnis-tabungan-haji",
+      "published": "2026-07-27T14:54:07+07:00",
+      "summary": "Bank Mega Syariah mencatat pertumbuhan positif Tabungan Haji, tumbuh 12% YoY. Strategi akuisisi nasabah dan edukasi haji jadi fokus utama.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Pendapatan Naik tapi Laba OKAS Malah Rontok 82%, Ada Apa?",
+      "link": "https://www.cnbcindonesia.com/market/20260727132219-17-754108/pendapatan-naik-tapi-laba-okas-malah-rontok-82-ada-apa",
+      "published": "2026-07-27T14:15:19+07:00",
+      "summary": "Ancora Indonesia Resources (OKAS) alami penurunan laba 81,9% di semester I-2026 meski pendapatan tumbuh tipis.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Loyo, Asing Jualan Saham Ini di Sesi 1",
+      "link": "https://www.cnbcindonesia.com/market/20260727130934-17-754098/ihsg-loyo-asing-jualan-saham-ini-di-sesi-1",
+      "published": "2026-07-27T13:17:46+07:00",
+      "summary": "IHSG masih di zona merah dengan penurunan 0,36% akibat aksi jual investor asing. Sektor konsumer non-primer satu-satunya yang menguat.",
+      "source": "CNBC"
+    },
+    {
+      "title": "BEI Minta Penjelasan, DATA Buka Suara soal Saham Protelindo",
+      "link": "https://www.cnbcindonesia.com/market/20260727123949-17-754082/bei-minta-penjelasan-data-buka-suara-soal-saham-protelindo",
+      "published": "2026-07-27T12:55:26+07:00",
+      "summary": "Remala Abadi (DATA) menegaskan tidak terlibat dalam transaksi pengalihan saham Protelindo. DATA tetap berkomitmen pada aturan free float dan strategi bisnis.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Mitratel (MTEL) Buyback Saham yang Tak Restui Merger, Nilainya Segini",
+      "link": "https://www.cnbcindonesia.com/market/20260727113330-17-754054/mitratel--mtel--buyback-saham-yang-tak-restui-merger-nilainya-segini",
+      "published": "2026-07-27T12:40:30+07:00",
+      "summary": "PT Dayamitra Telekomunikasi Tbk (MTEL) telah menyelesaikan pelaksanaan pembelian kembali (buyback) saham.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Aksi Korporasi Jumbo MKNT, Pengendali Baru Bakal Kuasai 80,04% Saham",
+      "link": "https://www.cnbcindonesia.com/market/20260727112650-17-754052/aksi-korporasi-jumbo-mknt-pengendali-baru-bakal-kuasai-8004-saham",
+      "published": "2026-07-27T12:35:50+07:00",
+      "summary": "Emiten telekomunikasi, PT Mitra Telekomunikasi Nusantara Tbk (MKNT) menyiapkan rangkaian aksi korporasi berskala besar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Pasar Sorot Perry Warjiyo Mundur dari BI, IHSG Sesi 1 Ditutup Merah",
+      "link": "https://www.cnbcindonesia.com/market/20260727121247-17-754067/pasar-sorot-perry-warjiyo-mundur-dari-bi-ihsg-sesi-1-ditutup-merah",
+      "published": "2026-07-27T12:21:44+07:00",
+      "summary": "IHSG melemah 0,36% di sesi I, dipengaruhi pengunduran diri Perry Warjiyo dari Bank Indonesia. Sektor telekomunikasi dan perbankan jadi penekan utama indeks.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ekonom Nilai Transisi Perry ke Destry di BI Tak Ganggu Rupiah dan Pasar",
+      "link": "https://www.cnbcindonesia.com/market/20260727104659-17-754037/ekonom-nilai-transisi-perry-ke-destry-di-bi-tak-ganggu-rupiah-pasar",
+      "published": "2026-07-27T12:10:47+07:00",
+      "summary": "Ekonom menilai dampak mundurnya Perry Warjiyo dari Gubernur BI terhadap rupiah terbatas. Transisi kepemimpinan diharapkan tidak ganggu stabilitas ekonomi.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tumbuh 84,4%, Laba Pegadaian Tembus Rp6,59 T di Semester I-2026",
+      "link": "https://www.cnbcindonesia.com/market/20260727115636-17-754060/tumbuh-844-laba-pegadaian-tembus-rp659-t-di-semester-i-2026",
+      "published": "2026-07-27T12:01:00+07:00",
+      "summary": "PT Pegadaian mencatat laba bersih Rp 6,59 triliun hingga Juni 2026, tumbuh 84,4%. Pertumbuhan aset dan kualitas pembiayaan semakin sehat.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Harga Minyak Ambles 4%, Pasar Hitung Ulang Risiko Hormuz",
+      "link": "https://www.cnbcindonesia.com/market/20260727104610-17-754030/harga-minyak-ambles-4-pasar-hitung-ulang-risiko-hormuz",
+      "published": "2026-07-27T11:55:04+07:00",
+      "summary": "Harga minyak dunia bergerak melemah pada perdagangan Senin (27/7/2026) setelah ketegangan militer antara Amerika Serikat (AS) dan Iran mereda pada akhir pekan.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Purbaya Mau Ketemu Dewan Gubernur BI Usai Perry Warjiyo Mundur",
+      "link": "https://www.cnbcindonesia.com/market/20260727114015-17-754058/purbaya-mau-ketemu-dewan-gubernur-bi-usai-perry-warjiyo-mundur",
+      "published": "2026-07-27T11:42:24+07:00",
+      "summary": "Menteri Keuangan Purbaya Yudhi Sadewa bakal mengadakan pertemuan khusus dengan jajaran dewan gubernur Bank Indonesia",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Profil Destry Damayanti Yang Jabat Posisi Gubernur BI Sementara",
+      "link": "https://www.cnbcindonesia.com/market/20260727105407-19-754034/video-profil-destry-damayanti-yang-jabat-posisi-gubernur-bi-sementara",
+      "published": "2026-07-27T11:35:41+07:00",
+      "summary": "Jabat Posisi Gubernur BI Sementara, Destry Pastikan Ikuti Aturan dan Undang-undang",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Harapan Damai Iran - AS, Harga Minyak Turun dan Harga Emas Stabil",
+      "link": "https://www.cnbcindonesia.com/market/20260727105355-19-754036/video-harapan-damai-iran--as-harga-minyak-turun-harga-emas-stabil",
+      "published": "2026-07-27T11:25:01+07:00",
+      "summary": "Harapan Damai Iran - AS, Harga Minyak Turun dan Harga Emas Stabila",
+      "source": "CNBC"
+    },
+    {
+      "title": "Komisaris Utama MEDS, Jemmy Kurniawan Lepas 2,68 Juta Saham, Ada Apa?",
+      "link": "https://www.cnbcindonesia.com/market/20260727103207-17-754026/komisaris-utama-meds-jemmy-kurniawan-lepas-268-juta-saham-ada-apa",
+      "published": "2026-07-27T11:20:07+07:00",
+      "summary": "PT Hetzner Medical Indonesia Tbk. (MEDS) mengumumkan, Komisaris MEDS Jemmy Kurniawan mengurangi kepemilikan sahamnya dengan total sebanyak 2.683.600 lembar.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Pasar Cermati Mundurnya Perry Warjiyo, Rupiah dan IHSG Aman?",
+      "link": "https://www.cnbcindonesia.com/market/20260727102320-17-754022/pasar-cermati-mundurnya-perry-warjiyo-rupiah-dan-ihsg-aman",
+      "published": "2026-07-27T11:15:20+07:00",
+      "summary": "Perry Warjiyo mundur sebagai Gubernur Bank Indonesia per 25 Juli 2026. Pengunduran ini berpotensi mempengaruhi independensi BI dan pasar modal Indonesia.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Perry Mundur Dari Gubernur BI, Rupiah Dekati Rp 18.000/USD",
+      "link": "https://www.cnbcindonesia.com/market/20260727105354-19-754035/video-perry-mundur-dari-gubernur-bi-rupiah-dekati-rp-18000-usd",
+      "published": "2026-07-27T11:14:00+07:00",
+      "summary": "Perry Mundur Dari Gubernur BI, Rupiah Melemah dan Dekati Rp 18.000/USD",
+      "source": "CNBC"
+    },
+    {
+      "title": "Breaking News! Rupiah Kembali Tembus Rp18.000 per Dolar AS",
+      "link": "https://www.cnbcindonesia.com/market/20260727104518-17-754028/breaking-news-rupiah-kembali-tembus-rp18000-per-dolar-as",
+      "published": "2026-07-27T11:01:15+07:00",
+      "summary": "Nilai tukar rupiah kembali melemah hingga menyentuh level psikologis Rp18.000 terhadap dolar Amerika Serikat (AS) pada perdagangan Senin (27/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Video: Mobil Listrik Makin Laris, Permintaan Asuransi Kendaraan Naik?",
+      "link": "https://www.cnbcindonesia.com/market/20260724153130-19-753659/video-mobil-listrik-makin-laris-permintaan-asuransi-kendaraan-naik",
+      "published": "2026-07-27T10:55:07+07:00",
+      "summary": "Mobil dan Motor Listrik Makin Laris, Permintaan Asuransi Kendaraan Ikut Meroket?",
+      "source": "CNBC"
+    },
+    {
+      "title": "Terbaru! AMRO Proyeksi Ekonomi RI Tumbuh 5% di 2026",
+      "link": "https://www.cnbcindonesia.com/market/20260727100111-17-754020/terbaru-amro-proyeksi-ekonomi-ri-tumbuh-5-di-2026",
+      "published": "2026-07-27T10:50:23+07:00",
+      "summary": "AMRO memproyeksikan pertumbuhan ekonomi Indonesia 5% di 2026, dengan inflasi mencapai 3,4%.",
+      "source": "CNBC"
+    },
+    {
+      "title": "SUPR Delisting, Pemiliknya Ini Mau Buyback Saham di Harga Rp45.000",
+      "link": "https://www.cnbcindonesia.com/market/20260727094739-17-754008/supr-delisting-pemiliknya-ini-mau-buyback-saham-di-harga-rp45000",
+      "published": "2026-07-27T10:40:06+07:00",
+      "summary": "PT Profesional Telekomunikasi Indonesia (Protelindo) akan melaksanakan penawaran tender sukarela (voluntary tender offer/VTO) atas saham SUPR.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ekonom Soal Perry Warjiyo Mundur: Tak Picu Kekhawatiran Pasar",
+      "link": "https://www.cnbcindonesia.com/market/20260727094153-17-754001/ekonom-soal-perry-warjiyo-mundur-tak-picu-kekhawatiran-pasar",
+      "published": "2026-07-27T10:20:54+07:00",
+      "summary": "Ekonom menilai pengunduran diri Gubernur BI Perry Warjiyo tidak berdampak serius. Destry Damayanti diprediksi mampu menjaga stabilitas moneter dan rupiah.",
+      "source": "CNBC"
+    },
+    {
+      "title": "OJK Cabut Izin Usaha Penjamin Emisi Efek Ekuator Swarna Sekuritas",
+      "link": "https://www.cnbcindonesia.com/market/20260727090108-17-753976/ojk-cabut-izin-usaha-penjamin-emisi-efek-ekuator-swarna-sekuritas",
+      "published": "2026-07-27T10:15:30+07:00",
+      "summary": "Otoritas Jasa Keuangan (OJK) mencabut izin usaha Penjamin Emisi Efek (PEE) PT Ekuator Swarna Sekuritas.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Gubernur BI Perry Warjiyo Mundur Karena Sakit-Tekanan? Ini Kata Istana",
+      "link": "https://www.cnbcindonesia.com/market/20260727092009-17-753991/gubernur-bi-perry-warjiyo-mundur-karena-sakit-tekanan-ini-kata-istana",
+      "published": "2026-07-27T10:10:09+07:00",
+      "summary": "Menteri Sekretaris Negara Prasetyo Hadi mengaku tak tahu alasan detail tentang keputusan Gubernur BI Perry Warjiyo mundur",
+      "source": "CNBC"
+    },
+    {
+      "title": "Profil Grandy Prajayakti, Direktur RANS yang Mundur Pasca IPO",
+      "link": "https://www.cnbcindonesia.com/market/20260727085638-17-753971/profil-grandy-prajayakti-direktur-rans-yang-mundur-pasca-ipo",
+      "published": "2026-07-27T09:50:38+07:00",
+      "summary": "Emiten milik Raffi Ahmad PT Rans Entertainment Indonesia Tbk (RANS) mengumumkan pengunduran diri salah satu direksinya.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Pernyataan Lengkap BI Soal Pengunduran Diri Perry Warjiyo",
+      "link": "https://www.cnbcindonesia.com/market/20260727090559-17-753979/pernyataan-lengkap-bi-soal-pengunduran-diri-perry-warjiyo",
+      "published": "2026-07-27T09:35:00+07:00",
+      "summary": "Perry Warjiyo resmi mundur sebagai Gubernur Bank Indonesia per 25 Juli 2026. Presiden Prabowo mengapresiasi dedikasinya selama 7 tahun memimpin BI.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Perry Mundur dari BI, Istana Belum Kirim Nama Pengganti ke DPR",
+      "link": "https://www.cnbcindonesia.com/market/20260727083845-17-753969/perry-mundur-dari-bi-istana-belum-kirim-nama-pengganti-ke-dpr",
+      "published": "2026-07-27T09:15:00+07:00",
+      "summary": "Perry Warjiyo mundur sebagai Gubernur Bank Indonesia per 25 Juli 2026. Destry Damayanti ditunjuk sebagai Gubernur BI sementara hingga pengganti definitif.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Istana: Gubernur BI Perry Belum Sempat Bertemu Prabowo Saat Undur Diri",
+      "link": "https://www.cnbcindonesia.com/market/20260727084147-17-753966/istana-gubernur-bi-perry-belum-sempat-bertemu-prabowo-saat-undur-diri",
+      "published": "2026-07-27T09:10:04+07:00",
+      "summary": "Pihak Istana menegaskan, belum ada pertemuan apapun antara Perry Warjiyo dengan Presiden Prabowo saat memutuskan\u00a0undur diri",
+      "source": "CNBC"
+    },
+    {
+      "title": "Rupiah Melemah ke Rp17.960 Pasca Gubernur BI Perry Warjiyo Mundur",
+      "link": "https://www.cnbcindonesia.com/market/20260727084438-17-753967/rupiah-melemah-ke-rp17960-pasca-gubernur-bi-perry-warjiyo-mundur",
+      "published": "2026-07-27T09:06:32+07:00",
+      "summary": "Nilai tukar mata uang Garuda berhasil mengawali perdagangan awal pekan ini di zona penguatan terhadap dolar Amerika Serikat (AS).",
+      "source": "CNBC"
+    },
+    {
+      "title": "OJK Bongkar Dosa Ekuator Swarna, Izin Dicabut",
+      "link": "https://www.cnbcindonesia.com/market/20260727083808-17-753965/ojk-bongkar-dosa-ekuator-swarna-izin-dicabut",
+      "published": "2026-07-27T09:05:09+07:00",
+      "summary": "OJK mencabut izin PT Ekuator Swarna Sekuritas sebagai Penjamin Emisi Efek karena pelanggaran peraturan pasar modal.",
+      "source": "CNBC"
+    },
+    {
+      "title": "IHSG Dibuka Melemah Usai Perry Warjiyo Mundur dari BI",
+      "link": "https://www.cnbcindonesia.com/market/20260727082115-17-753961/ihsg-dibuka-melemah-usai-perry-warjiyo-mundur-dari-bi",
+      "published": "2026-07-27T09:02:22+07:00",
+      "summary": "IHSG dibuka melemah di level 6.180,33. Pelaku pasar menunggu agenda ekonomi global penting, termasuk keputusan suku bunga The Fed dan data dari China.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Rekomendasi Saham Hari Ini: Cek PACK hingga DEWA",
+      "link": "https://www.cnbcindonesia.com/market/20260727081640-17-753958/rekomendasi-saham-hari-ini-cek-pack-hingga-dewa",
+      "published": "2026-07-27T08:59:08+07:00",
+      "summary": "Rekomendasi saham hari ini: PACK, SGER, SUNI, MDIA, dan DEWA.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Harga Minyak Mendingin, Bursa Asia Kompak Hijau",
+      "link": "https://www.cnbcindonesia.com/market/20260727081713-17-753960/harga-minyak-mendingin-bursa-asia-kompak-hijau",
+      "published": "2026-07-27T08:50:13+07:00",
+      "summary": "Bursa saham Asia menguat seiring penurunan harga minyak dan jeda pertempuran AS-Iran. Pelaku pasar menanti laporan keuangan dan keputusan suku bunga The Fed.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Penjelasan Lengkap Gubernur BI Perry Warjiyo Mundur-Diganti Destry",
+      "link": "https://www.cnbcindonesia.com/market/20260727083004-17-753963/penjelasan-lengkap-gubernur-bi-perry-warjiyo-mundur-diganti-destry",
+      "published": "2026-07-27T08:31:37+07:00",
+      "summary": "Gubernur Bank Indonesia (BI) Perry Warjiyo memutuskan undur diri dari jabatannya sejak Sabtu (25/7/2026).",
+      "source": "CNBC"
+    },
+    {
+      "title": "Perry Mundur, Destry Pastikan Tugas BI Tetap Berjalan",
+      "link": "https://www.cnbcindonesia.com/market/20260727082513-17-753962/perry-mundur-destry-pastikan-tugas-bi-tetap-berjalan",
+      "published": "2026-07-27T08:26:48+07:00",
+      "summary": "Gubernur BI sementara Destry Damayanti menegaskan komitmen bank sentral untuk stabilitas ekonomi pasca pengunduran diri Perry Warjiyo.",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ditunjuk Jadi Gubernur BI Sementara, Ini Profil Destry Damayanti",
+      "link": "https://www.cnbcindonesia.com/market/20260727075951-17-753956/ditunjuk-jadi-gubernur-bi-sementara-ini-profil-destry-damayanti",
+      "published": "2026-07-27T08:22:00+07:00",
+      "summary": "Gubernur Bank Indonesia Perry Warjiyo resmi mundur karena masalah kesehatan. Deputi Gubernur Senior Destry Damayanti ditunjuk sebagai penggantinya sementara.",
+      "source": "CNBC"
+    },
+    {
+      "title": ", the Board of Directors of Indonesia Stock Exchange (IDX) announces to the Shareholders that the Extraordinary General Meeting of Shareholders (EGMS) will be held on Wednesday, 12",
+      "link": "https://www.idx.id/en/news/news/",
+      "published": "14 July 2026",
+      "summary": "",
+      "source": "IDX"
+    },
+    {
+      "title": "Unilever India Shares Slide Most Since 2020 on Growth Woes",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/unilever-india-profit-beats-estimate-as-demand-defies-price-hike",
+      "published": "2026-07-28T04:37:17+00:00",
+      "summary": "Hindustan Unilever Ltd.\u2019s shares recorded their biggest single-day fall in over six years on concerns around slowing growth and persistent raw material inflation even as its quarterly profit beat analyst expectations.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Software Stocks in India Set to Beat Global Chipmakers by Record",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/india-it-stocks-set-for-record-monthly-beat-over-chip-makers",
+      "published": "2026-07-28T05:24:22+00:00",
+      "summary": "India\u2019s software stocks are set for their biggest monthly outperformance over global chipmakers, signaling investors are moving out of the artificial intelligence trade and into beaten-down information technology names.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "US Publishes Photo Showing Rare Joint Coast Guard Sailing With Taiwan Vessel",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-publishes-photo-showing-rare-joint-coast-guard-sailing-with-taiwan-vessel",
+      "published": "2026-07-28T07:45:00+00:00",
+      "summary": "Taiwan said it worked with the US to break up an attempt to smuggle high-end chips, highlighting expanding maritime cooperation as China steps up pressure in the region.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "AT1 Buyers Are \u2018Far Too Complacent\u2019 to Risks, Man Group Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/at1-buyers-are-far-too-complacent-to-risks-man-group-says",
+      "published": "2026-07-28T10:17:16+00:00",
+      "summary": "Investors are \u201cfar too complacent\u201d on the Additional Tier 1 bonds, the riskiest type of bank debt, and spreads now appear too tight, according to investors at Man Group.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Traders Stick With Europe\u2019s Rate Curve Bet After Painful Run",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/traders-stick-with-europe-s-big-rate-curve-bet-after-painful-run",
+      "published": "2026-07-28T07:08:33+00:00",
+      "summary": "Traders are holding onto one of Europe\u2019s most popular interest-rate bets, even though it\u2019s been pushed off course time and again this year.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "AI Greed Turns Into Fear as Tech Stocks Keep Sinking",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/ai-greed-turns-into-fear-as-tech-stocks-keep-sinking",
+      "published": "2026-07-28T10:02:43+00:00",
+      "summary": "The cost of protecting Nvidia debt against default surged by the most on record",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Paschi, BPM Advisers Working on Merger to Foil Intesa\u2019s Bid",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/paschi-banco-bpm-advisers-working-on-deal-with-cash-component",
+      "published": "2026-07-27T16:30:16+00:00",
+      "summary": "Advisers for Banca Monte dei Paschi di Siena SpA and Banco BPM SpA are in talks over a possible merger that would include a cash component, according to people familiar with the matter, in a potential deal that would effectively thwart a \u20ac35 billion ($40 billion) takeover offer for Monte Paschi from Intesa Sanpaolo SpA.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Elevate Campuses Said to Launch $267 Million India IPO in August",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/elevate-campuses-said-to-launch-267-million-india-ipo-in-august",
+      "published": "2026-07-28T09:47:08+00:00",
+      "summary": "Hillhouse Investment Management Ltd.-backed Elevate Campuses Ltd. is preparing to launch its 25.55-billion rupee ($267 million) initial public offering as early as August, according to people familiar with the matter, paving the way for India\u2019s first listed operator of student dorms.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Gold Declines as Traders Weigh Prospects for Interest-Rate Hike",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/gold-holds-gain-as-trump-sounds-optimism-over-us-iran-talks",
+      "published": "2026-07-27T23:21:45+00:00",
+      "summary": "Gold declined ahead of a potentially divisive decision on US interest rates later this week, while a fragile pause in Middle East hostilities soothed inflation fears.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Singapore\u2019s MAS Flags AI Pullback as Threat to Global Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/singapore-s-mas-flags-ai-pullback-as-threat-to-global-markets",
+      "published": "2026-07-28T09:30:00+00:00",
+      "summary": "Singapore\u2019s central bank warned that uncertainty over sustaining massive AI investments is a key risk for global growth and financial markets, citing this along with the threat of a prolonged re-escalation of the war in the Middle East.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Stocks Waver as Rotation From Chips Gathers Pace: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-07-27T22:08:16+00:00",
+      "summary": "US stocks struggled for direction as a deepening rout in chipmakers was tempered by investors rotating into other corners of the market following a drop in oil prices.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Treasuries Set for Third Day of Gains as Oil Drops on Iran Talks",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/treasuries-set-for-third-day-of-gains-as-oil-drops-on-iran-talks",
+      "published": "2026-07-28T09:21:11+00:00",
+      "summary": "Treasuries head for their best win streak in a month, buoyed by a sharp retreat in oil prices on optimism that talks between the US and Iran will lead to the resumption of tanker traffic around the Arabian Peninsula.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "GAM\u2019s Markham Says Chip Selloff Not Yet a Buy-the-Dip Moment",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/gam-s-markham-says-chip-selloff-not-yet-a-buy-the-dip-moment",
+      "published": "2026-07-28T09:17:53+00:00",
+      "summary": "The global selloff in chip stocks is not yet a buying opportunity as investor positioning remains crowded, according to GAM\u2019s Paul Markham.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Crypto\u2019s 24/7 Playbook Comes for Wall Street\u2019s Beloved AI Stocks",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/crypto-s-24-7-playbook-comes-for-wall-street-s-beloved-ai-stocks",
+      "published": "2026-07-28T09:15:00+00:00",
+      "summary": "Two years ago, Rahul Patel couldn\u2019t sleep.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Invesco and Rathbones Cut Gilts on UK Exposure to Politics, Oil",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/invesco-and-rathbones-cut-gilts-on-uk-exposure-to-politics-oil",
+      "published": "2026-07-28T09:10:55+00:00",
+      "summary": "Fund managers including Invesco Ltd., Ninety One UK Ltd., Rathbones Asset Management Ltd. and W1M Group Ltd. have soured on UK government debt this year as worries about inflation and political instability prompt them to look elsewhere.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for July 28",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/latest-oil-market-news-and-analysis-for-july-28",
+      "published": "2026-07-27T22:02:24+00:00",
+      "summary": "Oil extended a steep decline after President Donald Trump said that the US and Iran were engaged in talks to end the Middle East conflict, with both sides continuing to hold off on attacks.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Asian Tech Slide Sends Emerging-Market Stocks to Three-Month Low",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/chips-drag-emerging-stocks-to-april-low-oil-shields-currencies",
+      "published": "2026-07-28T08:14:40+00:00",
+      "summary": "The slide in the Asian tech stocks pushed the benchmark for emerging markets to the lowest in three months, though the pullback in oil prices helped shield European bourses and currencies from the selloff.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Fujimori Gives Peru Its Best Shot at Breaking Cycle of Presidential Chaos",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/fujimori-gives-peru-its-best-shot-at-breaking-cycle-of-presidential-chaos",
+      "published": "2026-07-28T09:00:00+00:00",
+      "summary": "Keiko Fujimori is about to take on one of Latin America\u2019s most perilous political jobs as the new president of Peru.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Chinese Luxury Jeweler Sheds $2.1 Billion on 66% Growth Outlook",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/chinese-luxury-jeweler-sheds-2-1-billion-on-66-growth-outlook",
+      "published": "2026-07-28T08:44:41+00:00",
+      "summary": "Laopu Gold Co. lost $2.1 billion in market value Tuesday after the Chinese jeweler flagged slowing sales, unsettling investors who had been betting on some of China\u2019s most viral consumer brands.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Asian Stocks Slide 10% From June Peak to Head for Correction",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/asian-stocks-slide-10-from-june-peak-to-head-for-correction",
+      "published": "2026-07-28T03:27:10+00:00",
+      "summary": "Asian stocks slumped, putting the regional benchmark on course for a technical correction, as a selloff in chipmakers deepened.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "TelkomMetra Strengthens Its Business Portfolio Restructuring Strategy, AdMedika Group Ready for Distinct Expansion under Fullerton Health",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/telkommetra-strengthens-business-portfolio-restructuring-074800978.html?.tsrc=rss",
+      "published": "2026-06-04T07:48:00+00:00",
+      "summary": "PT Multimedia Nusantara (TelkomMetra), an operating company of PT Telkom Indonesia (Persero) Tbk (Telkom), has officially signed a Shares Sale and Purchase Agreement (SPA) with the Fullerton Health group of companies (Fullerton Health) regarding the full divestment of PT Administrasi Medika (AdMedika), including its subsidiary TelkoMedika (collectively referred to as AdMedika Group). The SPA between TelkomMetra as the seller and Fullerton Health as the buyer, which was executed on Tuesday (2/6),",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TelkomGroup Launches Pukpuk Submarine Cable: The First Digital Bridge Connecting Indonesia and Papua New Guinea",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/telkomgroup-launches-pukpuk-submarine-cable-141900026.html?.tsrc=rss",
+      "published": "2026-05-09T14:19:00+00:00",
+      "summary": "PT Telkom Indonesia (Persero) Tbk, through its operating company, PT Telekomunikasi Indonesia International (Telin), officially inaugurated the Pukpuk Submarine Cable System (Puk-Puk 1) at Telkom Witel Jayapura, Papua, on Friday (8/5). The milestone marks a new chapter in strengthening digital connectivity across Eastern Indonesia while reinforcing bilateral collaboration between Indonesia and Papua New Guinea in developing cross-border telecommunications infrastructure.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Indonesia Colocation Data Center Portfolio Report 2026: Detailed Analysis of 87 Existing & 30 Upcoming Data Centers 2025-2029 by White-Floor Area, IT Load (MW), Pricing, Rack Capacity",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/indonesia-colocation-data-center-portfolio-092900465.html?.tsrc=rss",
+      "published": "2026-04-27T09:29:00+00:00",
+      "summary": "Explore the comprehensive Indonesia Data Center Market Database, offering in-depth insights into colocation facilities across key regions like Jakarta, Bali, and West Java. The product details 87 existing and 30 upcoming data centers, including white-floor space, IT load capacity, and colocation pricing. Jakarta leads in the data center capacity, with Batam emerging as a secondary hub. Key players DCI Indonesia, BDx Indonesia, and Telkom Indonesia drive growth. Perfect for REITs, construction co",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Investors: Stick to your 'plan' despite geopolitical volatility",
+      "link": "https://finance.yahoo.com/video/investors-stick-plan-despite-geopolitical-141219292.html?.tsrc=rss",
+      "published": "2026-03-09T14:12:19+00:00",
+      "summary": "Russell Investments Global chief investment strategist Paul Eitelman joins Opening Bid host Brian Sozzi to explain how investors should be navigating uncertainty and volatility as conflicts in the Middle East continue weighing on US markets (^DJI, ^GSPC, ^IXIC) and global markets (^N225, ^KS11, ^JKSE). To watch more expert insights and analysis on the latest market action, check out more Opening Bid.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TelkomMetra Streamlines Business Portfolio, AdMedika Group Poised to Enter a New Growth Phase on Regional Level Under Fullerton Health",
+      "link": "https://finance.yahoo.com/news/telkommetra-streamlines-business-portfolio-admedika-133600078.html?.tsrc=rss",
+      "published": "2026-03-09T13:36:00+00:00",
+      "summary": "PT Multimedia Nusantara (TelkomMetra), as one of the subsidiaries of PT Telkom Indonesia (Persero) Tbk (Telkom) (together, the TelkomGroup) has officially signed a Conditional Share Purchase Agreement (CSPA) marking a critical and strategic step toward the full divestment of PT Administrasi Medika (AdMedika), including its subsidiary TelkoMedika (together, the AdMedika Group), to the Fullerton Health group of companies (Fullerton Health). This move is aligned with the state-owned enterprise (SOE",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TELFY vs. TLK: Which Stock Is the Better Value Option?",
+      "link": "https://finance.yahoo.com/news/telfy-vs-tlk-stock-better-164003032.html?.tsrc=rss",
+      "published": "2026-02-19T16:40:03+00:00",
+      "summary": "TELFY vs. TLK: Which Stock Is the Better Value Option?",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Analysts Think Gives Telekom Indonesia (IDX:TLKM) A New Edge As The Story Shifts",
+      "link": "https://finance.yahoo.com/news/analysts-think-gives-telekom-indonesia-050351985.html?.tsrc=rss",
+      "published": "2026-02-09T05:03:51+00:00",
+      "summary": "The fair value estimate for Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia has been revised slightly, with a new target of IDR 3,887.27, while the discount rate and revenue growth assumption have been adjusted to reflect a more measured balance between risk and top line expectations. Behind this, analysts are weighing the potential impact of the planned infrastructure spinoff and streamlining plans against the execution risks and the possibility that some of the capital unlock...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "DTEGY or TLK: Which Is the Better Value Stock Right Now?",
+      "link": "https://finance.yahoo.com/news/dtegy-tlk-better-value-stock-164003022.html?.tsrc=rss",
+      "published": "2026-02-03T16:40:03+00:00",
+      "summary": "DTEGY vs. TLK: Which Stock Is the Better Value Option?",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The \u2018deep-fried\u2019 stocks that spurred a market meltdown",
+      "link": "https://finance.yahoo.com/news/deep-fried-stocks-spurred-market-050251976.html?.tsrc=rss",
+      "published": "2026-02-02T05:02:51+00:00",
+      "summary": "The volatile swings of some Indonesian shares have earned them the nickname saham gorengan or \u201cdeep-fried stocks\u201d, with their restricted floats...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TLK or CHT: Which Is the Better Value Stock Right Now?",
+      "link": "https://finance.yahoo.com/news/tlk-cht-better-value-stock-164004315.html?.tsrc=rss",
+      "published": "2026-01-14T16:40:04+00:00",
+      "summary": "TLK vs. CHT: Which Stock Is the Better Value Option?",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How Recent Developments Are Reshaping The Bank Rakyat Indonesia Investment Story",
+      "link": "https://finance.yahoo.com/news/recent-developments-reshaping-bank-rakyat-001537396.html?.tsrc=rss",
+      "published": "2025-12-12T00:15:37+00:00",
+      "summary": "Bank Rakyat Indonesia (Persero) has seen its fair value estimate nudged down from IDR 4,533.55 to IDR 4,469.29, even as its revenue growth outlook edges higher from 26.28% to 26.47%. This reflects a more finely balanced view of risk and opportunity. This shift captures growing confidence in the impact of planned government liquidity injections, tempered by caution around execution and macro uncertainties. Read on to see how these evolving assumptions are reshaping the stock's narrative and...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Digital Edge rebrands Indonesian Operations as Digital Edge Indonesia",
+      "link": "https://finance.yahoo.com/news/digital-edge-rebrands-indonesian-operations-050000428.html?.tsrc=rss",
+      "published": "2025-12-09T05:00:00+00:00",
+      "summary": "Digital Edge, one of Asia's fastest-growing data center platforms backed by Stonepeak, has rebranded its Indonesian operations, EDGE DC, to Digital Edge Indonesia. This strategic move aligns the business more closely with the broader Digital Edge platform across Asia Pacific, while maintaining the local expertise and customer-centric approach that have driven its success.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Looking at the Narrative for Telkom Indonesia After Infrastructure Spinoff Plans and Analyst Upgrade",
+      "link": "https://finance.yahoo.com/news/looking-narrative-telkom-indonesia-infrastructure-120833496.html?.tsrc=rss",
+      "published": "2025-12-08T12:08:33+00:00",
+      "summary": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia has seen its fair value estimate nudged up from Rp 3,656.96 to Rp 3,801.82, even as its discount rate edges slightly higher from 12.30% to 12.33% and its revenue growth assumption eases marginally from 4.26% to 4.25%. This subtle recalibration reflects growing conviction that infrastructure spinoff and streamlining efforts can unlock underappreciated value, while still acknowledging execution and market risks. Read on to see how this...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "StarHub Partners NeutraDC, Indonesia's Leading Data Centre, to Strengthen Regional Quantum-Safe Connectivity",
+      "link": "https://finance.yahoo.com/news/starhub-partners-neutradc-indonesias-leading-055700961.html?.tsrc=rss",
+      "published": "2025-12-01T05:57:00+00:00",
+      "summary": "StarHub and NeutraDC, the data centre arm of Telkom Indonesia, today signed a Memorandum of Understanding (MOU) to deepen collaboration for the deployment of Quantum-Safe connectivity solutions including quantum-resistant encryption, post quantum cryptography and next generation secure network infrastructure and enhance digital services ecosystem in the region.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How the Narrative Around Bank Mandiri Is Shifting Amid Liquidity Support and Market Uncertainty",
+      "link": "https://finance.yahoo.com/news/narrative-around-bank-mandiri-shifting-210656126.html?.tsrc=rss",
+      "published": "2025-11-30T21:06:56+00:00",
+      "summary": "Bank Mandiri (Persero) stock has seen its consensus analyst price target nudge lower, from IDR 5,466.95 to IDR 5,463.00 in the latest update. This subtle revision reflects evolving perspectives among market participants, shaped by a balance of optimism around government support and caution over potential risks. Stay tuned to discover how you can stay informed as the narrative for this leading bank continues to shift in response to changing conditions. Analyst Price Targets don't always...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tracking the Changing Narrative for Bank Mandiri as Analyst Views and Liquidity Support Shift",
+      "link": "https://finance.yahoo.com/news/tracking-changing-narrative-bank-mandiri-171135777.html?.tsrc=rss",
+      "published": "2025-11-16T17:11:35+00:00",
+      "summary": "Bank Mandiri (Persero) has seen its Fair Value Estimate rise modestly, climbing from IDR 5,439 to IDR 5,467 as analyst optimism grows. The improved price target is the result of upgraded expectations about government liquidity support and the bank's strengthened market position. Stay tuned to discover ways to monitor these evolving insights and remain informed on the latest narrative shifts affecting Bank Mandiri\u2019s stock. Stay updated as the Fair Value for Bank Mandiri (Persero) shifts by...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "BRI Books Rp41,2 Trilion Profit, Reinforces Its Strategic Role in Driving the People's Economy",
+      "link": "https://finance.yahoo.com/news/bri-books-rp41-2-trilion-014900081.html?.tsrc=rss",
+      "published": "2025-11-04T01:49:00+00:00",
+      "summary": "PT Bank Rakyat Indonesia (Persero) Tbk (IDX: BBRI) reported a net profit of IDR 41.2 trillion in Q3 2025. President Director Hery Gunardi presented the results at the Q3 Financial Performance Press Conference in Jakarta (30/10).",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Analysts See Bank Mandiri\u2019s Outlook Improving After Recent Government Liquidity Support",
+      "link": "https://finance.yahoo.com/news/why-analysts-see-bank-mandiri-140956320.html?.tsrc=rss",
+      "published": "2025-11-02T14:09:56+00:00",
+      "summary": "Bank Mandiri (Persero) has seen its consensus analyst price target nudge higher, rising from IDR 5,436.15 to IDR 5,439.19. Sentiment around the bank's prospects is shaped by recent government actions and sector updates. This slight increase reflects updated optimism regarding liquidity, fundamentals, and positioning within the Indonesian banking landscape. Stay tuned to discover how you can continue to monitor emerging shifts in the narrative as analysts and policymakers reassess Bank...",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Telkom Indonesia to spin off wholesale fibre connectivity business in $2.16 billion deal",
+      "link": "https://finance.yahoo.com/news/telkom-indonesia-spin-off-wholesale-011754690.html?.tsrc=rss",
+      "published": "2025-10-21T01:17:54+00:00",
+      "summary": "Telkom Indonesia agreed on Tuesday to partially spin off its wholesale fibre connectivity business to its subsidiary Telkom Infrastruktur Indonesia in a deal valued at 35.787 trillion rupiah ($2.16 billion). The transaction is a material and affiliated party transaction under domestic rules and will have no significant impact on the financial conditions of the company, Telkom Indonesia said in a statement. The spin-off will help improve business focus and optimize the utilization of fibre optic network assets.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Looking at the Narrative for Bank Mandiri After Liquidity Support and Analyst Upgrades",
+      "link": "https://finance.yahoo.com/news/looking-narrative-bank-mandiri-liquidity-170825452.html?.tsrc=rss",
+      "published": "2025-10-18T17:08:25+00:00",
+      "summary": "Bank Mandiri (Persero) stock has recently seen its fair value estimate edge down slightly, alongside a marginal rise in its discount rate. Despite this, analysts remain optimistic as the bank's revenue growth projection ticks upward. This outlook is driven by several key factors, including expected government liquidity support and improved deposit stability. Stay tuned to discover how ongoing market developments may continue to shape the investment narrative for Bank Mandiri. What Wall Street...",
+      "source": "Yahoo Finance"
+    }
+  ]
+}

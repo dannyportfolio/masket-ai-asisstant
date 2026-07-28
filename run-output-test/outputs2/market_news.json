@@ -1,0 +1,38 @@
+{
+  "feed": {
+    "status": "NEWS_UNAVAILABLE",
+    "sources": [
+      {
+        "status": "NEWS_UNAVAILABLE",
+        "name": "CNBC",
+        "source": "https://www.cnbcindonesia.com/market/rss",
+        "fetched_at": "2026-07-28T10:45:13.283880+00:00",
+        "error": "<urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "status": "NEWS_UNAVAILABLE",
+        "name": "IDX",
+        "source": "https://www.idx.id/en/news/news/",
+        "fetched_at": "2026-07-28T10:45:13.350358+00:00",
+        "error": "<urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "status": "NEWS_UNAVAILABLE",
+        "name": "Bloomberg",
+        "source": "https://feeds.bloomberg.com/markets/news.rss",
+        "fetched_at": "2026-07-28T10:45:13.399612+00:00",
+        "error": "<urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "status": "NEWS_UNAVAILABLE",
+        "name": "Yahoo Finance",
+        "source": "https://finance.yahoo.com/rss/headline?s=%5EJKSE,BBCA.JK,BBRI.JK,BMRI.JK,TLKM.JK",
+        "fetched_at": "2026-07-28T10:45:13.508183+00:00",
+        "error": "<urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      }
+    ],
+    "fetched_at": "2026-07-28T10:45:13.644709+00:00",
+    "items": 0
+  },
+  "items": []
+}

@@ -1,0 +1,4 @@
+ticker,status,rows,start_date,end_date,quality_flags,analytics_engine,analytics_engine_status,analytics_engine_revision,provider,source,is_delayed,delay_seconds,ihsg_regime,ihsg_trend_score,ihsg_cmf_20,ihsg_cmf_60,ihsg_vpa_signal,macro_permission,macro_reason
+BBCA.JK,FETCH_ERROR,0,,,fetch_error,,NOT_RUN,fec23dc78c935e001394ea8df3f820eddd0823a0,,,True,,DATA_MISSING,0,,,DATA_MISSING,MACRO_UNVERIFIED,"IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."
+BMRI.JK,FETCH_ERROR,0,,,fetch_error,,NOT_RUN,fec23dc78c935e001394ea8df3f820eddd0823a0,,,True,,DATA_MISSING,0,,,DATA_MISSING,MACRO_UNVERIFIED,"IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."
+TLKM.JK,FETCH_ERROR,0,,,fetch_error,,NOT_RUN,fec23dc78c935e001394ea8df3f820eddd0823a0,,,True,,DATA_MISSING,0,,,DATA_MISSING,MACRO_UNVERIFIED,"IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."

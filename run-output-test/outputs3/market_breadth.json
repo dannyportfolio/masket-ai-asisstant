@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-28",
+  "universe": "LQ45",
+  "universe_source": "STATIC_CONFIG_LQ45_TICKERS",
+  "expected_universe_size": 3,
+  "observed_tickers": 3,
+  "coverage_pct": 100.0,
+  "advancers": 0,
+  "decliners": 3,
+  "unchanged": 0,
+  "net_advances": -3,
+  "advance_decline_ratio": 0.0,
+  "advance_decline_line": -61,
+  "total_volume": 355456300.0,
+  "advancing_volume": 0.0,
+  "declining_volume": 355456300.0,
+  "status": "OK",
+  "breadth_scope": "SELECTED_UNIVERSE_ONLY",
+  "is_full_market_breadth": false
+}

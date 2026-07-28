@@ -1,0 +1,22 @@
+{
+  "ticker": "AMRT.JK",
+  "provider": "yahoo",
+  "source": "Yahoo Finance",
+  "exchange": "IDX",
+  "fetch_timestamp_utc": "2026-07-28T10:47:27.623675+00:00",
+  "retrieved_at": "2026-07-28T10:47:27.623675+00:00",
+  "period": "1y",
+  "interval": "1d",
+  "rows": 247,
+  "start_date": "2025-07-28",
+  "end_date": "2026-07-28",
+  "status": "FETCHED",
+  "latency_class": "DELAYED_HISTORICAL",
+  "is_delayed": true,
+  "delay_seconds": null,
+  "provider_attempts": 1,
+  "error": null,
+  "error_code": null,
+  "latency_ms": 176.86,
+  "cache_saved_at_utc": "2026-07-28T10:47:27.805165+00:00"
+}

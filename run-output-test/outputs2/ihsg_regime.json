@@ -1,0 +1,13 @@
+{
+  "ticker": "^JKSE",
+  "status": "DATA_MISSING",
+  "ihsg_regime": "DATA_MISSING",
+  "ihsg_trend_score": 0,
+  "ihsg_cmf_20": null,
+  "ihsg_cmf_60": null,
+  "ihsg_vpa_signal": "DATA_MISSING",
+  "macro_permission": "MACRO_UNVERIFIED",
+  "macro_reason": "IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified.",
+  "as_of_date": null,
+  "evidence": {}
+}

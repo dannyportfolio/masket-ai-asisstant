@@ -1,0 +1,4 @@
+ticker,analysis_date,data_status,trade_action,entry_type,entry_point,target_point_1,target_point_2,cut_loss_point,risk_per_share,reward_to_target_1,reward_to_target_2,rr_target_1,rr_target_2,confidence,relative_strength_20,relative_strength_60,relative_strength_status,accumulation_saturation_index,distribution_saturation_index,wyckoff_phase,vpa_main_signal,vwpa_signal,vwpa_pressure_20,news_status,news_sentiment,news_score,news_confirmation,trade_reason
+BBCA.JK,,FETCH_ERROR,DATA_INSUFFICIENT,NO_ENTRY,,,,,,,,,,0,,,,,,,,,,NEWS_UNAVAILABLE,NEUTRAL,0,NEWS_UNAVAILABLE,Data saham tidak cukup untuk trade plan.
+BMRI.JK,,FETCH_ERROR,DATA_INSUFFICIENT,NO_ENTRY,,,,,,,,,,0,,,,,,,,,,NEWS_UNAVAILABLE,NEUTRAL,0,NEWS_UNAVAILABLE,Data saham tidak cukup untuk trade plan.
+TLKM.JK,,FETCH_ERROR,DATA_INSUFFICIENT,NO_ENTRY,,,,,,,,,,0,,,,,,,,,,NEWS_UNAVAILABLE,NEUTRAL,0,NEWS_UNAVAILABLE,Data saham tidak cukup untuk trade plan.

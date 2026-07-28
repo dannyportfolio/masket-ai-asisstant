@@ -1,0 +1,122 @@
+[
+  {
+    "ticker": "BBCA.JK",
+    "analysis_date": null,
+    "data_status": "FETCH_ERROR",
+    "ihsg_context": {
+      "ihsg_regime": "DATA_MISSING",
+      "ihsg_trend_score": 0,
+      "macro_permission": "MACRO_UNVERIFIED",
+      "macro_reason": "IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."
+    },
+    "wyckoff_vpa": {},
+    "cmf": {},
+    "saturation_index": {},
+    "relative_strength": {},
+    "trade_plan": {
+      "trade_action": "DATA_INSUFFICIENT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "Data saham tidak cukup untuk trade plan.",
+      "trade_reason": "Data saham tidak cukup untuk trade plan.",
+      "macro_confirmation": "MACRO_UNVERIFIED",
+      "confidence": 0,
+      "news_confirmation": "NEWS_UNAVAILABLE"
+    },
+    "news": {
+      "news_status": "NEWS_UNAVAILABLE",
+      "news_sentiment": "NEUTRAL",
+      "news_score": 0,
+      "matched_articles": []
+    },
+    "confidence": 0
+  },
+  {
+    "ticker": "BMRI.JK",
+    "analysis_date": null,
+    "data_status": "FETCH_ERROR",
+    "ihsg_context": {
+      "ihsg_regime": "DATA_MISSING",
+      "ihsg_trend_score": 0,
+      "macro_permission": "MACRO_UNVERIFIED",
+      "macro_reason": "IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."
+    },
+    "wyckoff_vpa": {},
+    "cmf": {},
+    "saturation_index": {},
+    "relative_strength": {},
+    "trade_plan": {
+      "trade_action": "DATA_INSUFFICIENT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "Data saham tidak cukup untuk trade plan.",
+      "trade_reason": "Data saham tidak cukup untuk trade plan.",
+      "macro_confirmation": "MACRO_UNVERIFIED",
+      "confidence": 0,
+      "news_confirmation": "NEWS_UNAVAILABLE"
+    },
+    "news": {
+      "news_status": "NEWS_UNAVAILABLE",
+      "news_sentiment": "NEUTRAL",
+      "news_score": 0,
+      "matched_articles": []
+    },
+    "confidence": 0
+  },
+  {
+    "ticker": "TLKM.JK",
+    "analysis_date": null,
+    "data_status": "FETCH_ERROR",
+    "ihsg_context": {
+      "ihsg_regime": "DATA_MISSING",
+      "ihsg_trend_score": 0,
+      "macro_permission": "MACRO_UNVERIFIED",
+      "macro_reason": "IHSG Yahoo Finance data is unavailable, so individual-stock signals must be macro-unverified."
+    },
+    "wyckoff_vpa": {},
+    "cmf": {},
+    "saturation_index": {},
+    "relative_strength": {},
+    "trade_plan": {
+      "trade_action": "DATA_INSUFFICIENT",
+      "entry_type": "NO_ENTRY",
+      "entry_point": null,
+      "target_point_1": null,
+      "target_point_2": null,
+      "cut_loss_point": null,
+      "risk_per_share": null,
+      "reward_to_target_1": null,
+      "reward_to_target_2": null,
+      "rr_target_1": null,
+      "rr_target_2": null,
+      "position_invalidated_if": "Data saham tidak cukup untuk trade plan.",
+      "trade_reason": "Data saham tidak cukup untuk trade plan.",
+      "macro_confirmation": "MACRO_UNVERIFIED",
+      "confidence": 0,
+      "news_confirmation": "NEWS_UNAVAILABLE"
+    },
+    "news": {
+      "news_status": "NEWS_UNAVAILABLE",
+      "news_sentiment": "NEUTRAL",
+      "news_score": 0,
+      "matched_articles": []
+    },
+    "confidence": 0
+  }
+]

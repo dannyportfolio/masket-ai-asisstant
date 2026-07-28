@@ -1,0 +1,4 @@
+ticker,source,fetch_timestamp,first_date,last_date,row_count,missing_ohlcv_count,zero_volume_count,anomaly_count,data_status,quality_flags
+BBCA.JK,Yahoo Finance,2026-07-28T10:45:50.607302+00:00,2025-07-28,2026-07-28,247,15,7,0,OK,missing_values:open:3;missing_values:high:3;missing_values:low:3;missing_values:close:3;missing_values:volume:3;zero_volume_rows:7;calendar_gaps_gt_7d:1
+BMRI.JK,Yahoo Finance,2026-07-28T10:45:51.074981+00:00,2025-07-28,2026-07-28,247,15,7,0,OK,missing_values:open:3;missing_values:high:3;missing_values:low:3;missing_values:close:3;missing_values:volume:3;zero_volume_rows:7;calendar_gaps_gt_7d:1
+TLKM.JK,Yahoo Finance,2026-07-28T10:45:51.464838+00:00,2025-07-28,2026-07-28,247,15,7,0,OK,missing_values:open:3;missing_values:high:3;missing_values:low:3;missing_values:close:3;missing_values:volume:3;zero_volume_rows:7;calendar_gaps_gt_7d:1
